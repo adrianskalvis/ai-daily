@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "items": {
+  "9c22661ce9de81e3": {
+   "date": "2026-11-04",
+   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+   "title": "GitHub Copilot is now available in JetBrains Air"
+  },
+  "9b0f1b3870f8f7bf": {
+   "date": "2026-11-04",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too"
+  },
+  "26c6032e1d267765": {
+   "date": "2026-11-04",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "title": "Accelerating engineering for the physical world"
+  }
+ }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<title>Lab Channel</title>
+<entry><id>yt:video:abc123XYZ</id><yt:videoId>abc123XYZ</yt:videoId><title>Launch event: Claude Omega 5</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=abc123XYZ"/>
+<published>PUBISO_FRESH</published><updated>PUBISO_FRESH</updated>
+<media:group><media:title>Launch event: Claude Omega 5</media:title>
+<media:thumbnail url="https://i.ytimg.com/vi/abc123XYZ/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch the launch of Claude Omega 5 live.</media:description></media:group></entry>
+<entry><id>yt:video:short1</id><yt:videoId>short1</yt:videoId><title>funny clip #shorts</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=short1"/>
+<published>PUBISO_FRESH</published><updated>PUBISO_FRESH</updated>
+<media:group><media:description>lol</media:description></media:group></entry>
+</feed>

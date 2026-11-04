@@ -1,0 +1,246 @@
+[
+ {
+  "tag": "reselling",
+  "text": "Shoot photos in daylight near a window. Natural light sells more than any filter."
+ },
+ {
+  "tag": "reselling",
+  "text": "Use a plain background: a white wall, a wooden floor or a neutral bedsheet."
+ },
+ {
+  "tag": "reselling",
+  "text": "Take 5 to 8 photos: front, back, label, size tag, any flaw and one worn or styled shot."
+ },
+ {
+  "tag": "reselling",
+  "text": "Photograph every flaw up close. Buyers who see it first rarely open a dispute."
+ },
+ {
+  "tag": "reselling",
+  "text": "Iron or steam clothes before shooting. Wrinkles read as worn out."
+ },
+ {
+  "tag": "reselling",
+  "text": "Keep the first photo a clean square crop. It is the only image shown in the feed."
+ },
+ {
+  "tag": "reselling",
+  "text": "Title formula: Brand + item type + colour + size + one key detail (material, model, year)."
+ },
+ {
+  "tag": "reselling",
+  "text": "Write the size exactly as the label says and add the EU size if it differs."
+ },
+ {
+  "tag": "reselling",
+  "text": "Put the brand name first in the title. Most buyers search by brand."
+ },
+ {
+  "tag": "reselling",
+  "text": "Mention 'new with tags' or 'never worn' in the title when it is true."
+ },
+ {
+  "tag": "reselling",
+  "text": "Avoid all caps and emoji walls in titles. They look like spam and hurt search."
+ },
+ {
+  "tag": "reselling",
+  "text": "Check sold listings, not active ones, to see what an item really goes for."
+ },
+ {
+  "tag": "reselling",
+  "text": "Price about 10 percent above your floor so you can accept the first fair offer."
+ },
+ {
+  "tag": "reselling",
+  "text": "Drop the price of a stale listing by a small step every week instead of one big cut."
+ },
+ {
+  "tag": "reselling",
+  "text": "Turn on offers. Many buyers only buy when they feel they negotiated."
+ },
+ {
+  "tag": "reselling",
+  "text": "Round prices like 15 look cheaper to scan than 14.99 on mobile."
+ },
+ {
+  "tag": "reselling",
+  "text": "Offer bundle discounts. One parcel with three items costs you one trip to the post."
+ },
+ {
+  "tag": "reselling",
+  "text": "Group matching items (same size, same brand) so bundles form naturally."
+ },
+ {
+  "tag": "reselling",
+  "text": "When someone likes several items, message a bundle price before they move on."
+ },
+ {
+  "tag": "reselling",
+  "text": "Weigh and measure items before listing so the shipping option is right the first time."
+ },
+ {
+  "tag": "reselling",
+  "text": "Keep a stock of poly mailers, tape and tissue so you can ship the same day."
+ },
+ {
+  "tag": "reselling",
+  "text": "Ship within 24 hours. Fast shipping lifts reviews, and reviews lift sales."
+ },
+ {
+  "tag": "reselling",
+  "text": "Reuse clean boxes and mailers. Buyers care about the item, not fresh packaging."
+ },
+ {
+  "tag": "reselling",
+  "text": "Print the label at home or use a parcel locker to skip the queue at the post office."
+ },
+ {
+  "tag": "reselling",
+  "text": "Fold clothes neatly and add a short thank-you note. Repeat buyers come from small touches."
+ },
+ {
+  "tag": "reselling",
+  "text": "For local pickups meet in a busy public place in daylight, never at your home."
+ },
+ {
+  "tag": "reselling",
+  "text": "Accept only the platform's payment or cash in hand. Never send items before payment clears."
+ },
+ {
+  "tag": "reselling",
+  "text": "Keep all messages inside the app. Off-platform chat removes buyer and seller protection."
+ },
+ {
+  "tag": "reselling",
+  "text": "Be wary of buyers who overpay and ask for a refund of the difference. That is a classic scam."
+ },
+ {
+  "tag": "reselling",
+  "text": "Film yourself packing high-value items. Video settles most 'item not as described' claims."
+ },
+ {
+  "tag": "reselling",
+  "text": "List a few items every day instead of twenty at once. Fresh listings get more views."
+ },
+ {
+  "tag": "reselling",
+  "text": "Relist or refresh items that have had no views in two weeks."
+ },
+ {
+  "tag": "reselling",
+  "text": "Answer questions within an hour when you can. Slow replies lose impatient buyers."
+ },
+ {
+  "tag": "reselling",
+  "text": "Describe fabric, fit and measurements. Fewer questions means faster sales."
+ },
+ {
+  "tag": "reselling",
+  "text": "Note where the item was bought and how often it was worn. Honest history builds trust."
+ },
+ {
+  "tag": "reselling",
+  "text": "Seasonal timing matters: list coats in September and swimwear in April."
+ },
+ {
+  "tag": "reselling",
+  "text": "Sell in Latvian and English. A two-language description reaches both local and EU buyers."
+ },
+ {
+  "tag": "reselling",
+  "text": "Check cross-border shipping options for Lithuania and Estonia. Baltic buyers often pay more."
+ },
+ {
+  "tag": "reselling",
+  "text": "Source stock at second-hand kilo shops and end-of-season sales, then list within a week."
+ },
+ {
+  "tag": "reselling",
+  "text": "Keep a simple spreadsheet: buy price, sale price, fees, shipping. Profit per item, not revenue, decides what to source next."
+ },
+ {
+  "tag": "coding",
+  "text": "Commit small, commit often. A ten-line commit is easy to review and easy to revert."
+ },
+ {
+  "tag": "coding",
+  "text": "Write the test for the bug before you fix it. The fix then proves itself."
+ },
+ {
+  "tag": "coding",
+  "text": "Name things for what they do, not how they do it. A reader should not need the body."
+ },
+ {
+  "tag": "coding",
+  "text": "Delete dead code instead of commenting it out. Git keeps the history for you."
+ },
+ {
+  "tag": "coding",
+  "text": "Read the error message twice before searching. Most of the answer is in it."
+ },
+ {
+  "tag": "coding",
+  "text": "Pin dependency versions in requirements.txt so builds stay reproducible."
+ },
+ {
+  "tag": "coding",
+  "text": "Put configuration at the top of the file or in one config object. Nobody hunts for magic numbers."
+ },
+ {
+  "tag": "coding",
+  "text": "Use a virtual environment per project. System Python is for the system."
+ },
+ {
+  "tag": "coding",
+  "text": "Log inputs and outputs at boundaries: network calls, file writes, external commands."
+ },
+ {
+  "tag": "coding",
+  "text": "When an AI coding agent suggests a change, read the diff before you accept it."
+ },
+ {
+  "tag": "coding",
+  "text": "Give coding agents one task per prompt and a way to verify it, like a test or a command."
+ },
+ {
+  "tag": "coding",
+  "text": "Keep a CLAUDE.md or README in the repo root. Agents and humans both read it first."
+ },
+ {
+  "tag": "automation",
+  "text": "Automate the task you did by hand three times. Once is not a pattern."
+ },
+ {
+  "tag": "automation",
+  "text": "Make scripts idempotent: running twice should not create duplicates or double-send."
+ },
+ {
+  "tag": "automation",
+  "text": "Add a dry-run flag to every script that writes, sends or deletes."
+ },
+ {
+  "tag": "automation",
+  "text": "Schedule jobs at odd minutes like :17. Everyone else runs at :00 and queues up."
+ },
+ {
+  "tag": "automation",
+  "text": "Store secrets in environment variables or repo secrets, never in code or commits."
+ },
+ {
+  "tag": "automation",
+  "text": "Every automated job should write one line of output that says what it did."
+ },
+ {
+  "tag": "automation",
+  "text": "In n8n or similar tools, add an error branch that sends you a message. Silent failures cost the most."
+ },
+ {
+  "tag": "automation",
+  "text": "Keep raw data and processed data in separate folders so you can rebuild from scratch."
+ },
+ {
+  "tag": "automation",
+  "text": "Back up the one file your automation depends on. Everything else can be regenerated."
+ }
+]

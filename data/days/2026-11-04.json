@@ -1,0 +1,88 @@
+{
+ "date": "2026-11-04",
+ "updated": "2026-11-04T14:28:48.669513+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "9c22661ce9de81e3",
+   "title": "GitHub Copilot is now available in JetBrains Air",
+   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+   "source": "GitHub Changelog · Copilot",
+   "category": "code",
+   "published": "2026-11-03T15:11:46+00:00",
+   "summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air .",
+   "why": "In 2 sources",
+   "score": 14.0,
+   "also_in": [
+    "The GitHub Blog (via Google News)"
+   ]
+  },
+  {
+   "id": "9b0f1b3870f8f7bf",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "llm": "Qwen",
+   "published": "2026-11-03T16:29:48+00:00",
+   "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang…",
+   "why": "In 2 sources",
+   "score": 14.0,
+   "also_in": [
+    "Hacker News"
+   ],
+   "hn_points": 677,
+   "hn_url": "https://news.ycombinator.com/item?id=50355251"
+  },
+  {
+   "id": "26c6032e1d267765",
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-03T12:00:00+00:00",
+   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "why": "In 2 sources",
+   "score": 11.0,
+   "also_in": [
+    "OpenAI (via Google News)"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 78322.0,
+    "change_24h": 1.6
+   },
+   {
+    "symbol": "ETH",
+    "usd": 2316.52,
+    "change_24h": 1.51
+   },
+   {
+    "symbol": "SOL",
+    "usd": 92.89,
+    "change_24h": -0.2
+   }
+  ],
+  "updated": "2026-11-04T14:29:26.076015+00:00"
+ },
+ "tip": {
+  "tag": "automation",
+  "text": "Schedule jobs at odd minutes like :17. Everyone else runs at :00 and queues up."
+ },
+ "sources_ok": 53,
+ "sources_failed": [
+  "Claude Code releases",
+  "Codex releases",
+  "n8n releases",
+  "Ollama releases",
+  "LM Studio CLI releases",
+  "MLX releases",
+  "MLX LM releases",
+  "llama.cpp releases"
+ ]
+}

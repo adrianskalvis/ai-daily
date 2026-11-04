@@ -1,0 +1,354 @@
+# Sources for the daily build. Edit freely, no code changes needed.
+#
+# Fields
+#   name      shown on the card
+#   url       feed URL (rss / youtube / github_releases / gnews) or API base (hn)
+#   type      rss | youtube | github_releases | gnews | hn | x (x is a stub, see README)
+#   category  ai | code | mac | crypto | reselling | guides | auto (hn only: category by keywords)
+#   tier      1 = official lab/vendor, 2 = solid secondary, 3 = search feed / filler
+#   llm       optional, fixes the LLM tag: Claude GPT Gemini Grok Llama DeepSeek Mistral Qwen Other
+#   min_points  hn only: ignore stories under this many points
+#
+# Tier drives the base score (see CONFIG in scripts/build.py).
+
+sources:
+  # ---------- AI News (official blogs) ----------
+  - name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    type: rss
+    category: ai
+    tier: 1
+    llm: GPT
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    type: rss
+    category: ai
+    tier: 1
+    llm: Gemini
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    type: rss
+    category: ai
+    tier: 1
+    llm: Gemini
+  - name: Mistral AI
+    url: https://mistral.ai/rss.xml
+    type: rss
+    category: ai
+    tier: 1
+    llm: Mistral
+  - name: Qwen Blog
+    url: https://qwenlm.github.io/blog/index.xml
+    type: rss
+    category: ai
+    tier: 1
+    llm: Qwen
+  - name: Meta Newsroom
+    url: https://about.fb.com/news/feed/
+    type: rss
+    category: ai
+    tier: 2
+    llm: Llama
+
+  # ---------- AI News (official YouTube) ----------
+  - name: Anthropic (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA
+    type: youtube
+    category: ai
+    tier: 1
+    llm: Claude
+  - name: Claude (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCV03SRZXJEz-hchIAogeJOg
+    type: youtube
+    category: ai
+    tier: 1
+    llm: Claude
+  - name: OpenAI (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A
+    type: youtube
+    category: ai
+    tier: 1
+    llm: GPT
+  - name: Google DeepMind (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A
+    type: youtube
+    category: ai
+    tier: 1
+    llm: Gemini
+  - name: AI at Meta (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24l0bg
+    type: youtube
+    category: ai
+    tier: 1
+    llm: Llama
+
+  # ---------- AI News (secondary) ----------
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    type: rss
+    category: ai
+    tier: 2
+  - name: AI Explained (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw
+    type: youtube
+    category: ai
+    tier: 2
+  - name: Matthew Berman (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA
+    type: youtube
+    category: ai
+    tier: 3
+  - name: Matt Wolfe (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g
+    type: youtube
+    category: ai
+    tier: 3
+  - name: Hacker News
+    url: https://hn.algolia.com/api/v1/search_by_date
+    type: hn
+    category: auto
+    tier: 2
+    min_points: 80
+
+  # ---------- AI News (Google News gap fillers) ----------
+  - name: Google News · Anthropic
+    url: https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: ai
+    tier: 3
+    llm: Claude
+  - name: Google News · OpenAI
+    url: https://news.google.com/rss/search?q=OpenAI+GPT&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: ai
+    tier: 3
+    llm: GPT
+  - name: Google News · Gemini
+    url: https://news.google.com/rss/search?q=Google+Gemini+model&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: ai
+    tier: 3
+    llm: Gemini
+  - name: Google News · xAI Grok
+    url: https://news.google.com/rss/search?q=xAI+Grok&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: ai
+    tier: 3
+    llm: Grok
+  - name: Google News · Meta Llama
+    url: https://news.google.com/rss/search?q=Meta+Llama+AI+model&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: ai
+    tier: 3
+    llm: Llama
+  - name: Google News · DeepSeek
+    url: https://news.google.com/rss/search?q=DeepSeek+model&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: ai
+    tier: 3
+    llm: DeepSeek
+  - name: Google News · Mistral & Qwen
+    url: https://news.google.com/rss/search?q=Mistral+AI+OR+Qwen+OR+Alibaba+model&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: ai
+    tier: 3
+
+  # ---------- Code & Automation ----------
+  - name: Claude Code releases
+    url: https://github.com/anthropics/claude-code/releases.atom
+    type: github_releases
+    category: code
+    tier: 1
+  - name: Codex releases
+    url: https://github.com/openai/codex/releases.atom
+    type: github_releases
+    category: code
+    tier: 1
+  - name: Cursor Changelog
+    url: https://cursor.com/changelog/rss.xml
+    type: rss
+    category: code
+    tier: 1
+  - name: GitHub Changelog · Copilot
+    url: https://github.blog/changelog/label/copilot/feed/
+    type: rss
+    category: code
+    tier: 1
+  - name: MCP Blog
+    url: https://blog.modelcontextprotocol.io/index.xml
+    type: rss
+    category: code
+    tier: 1
+  - name: n8n releases
+    url: https://github.com/n8n-io/n8n/releases.atom
+    type: github_releases
+    category: code
+    tier: 1
+  - name: n8n Blog
+    url: https://blog.n8n.io/rss/
+    type: rss
+    category: code
+    tier: 2
+  - name: Cursor (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC6YYHJzM6PhZ2Yey9BQiUaw
+    type: youtube
+    category: code
+    tier: 2
+  - name: n8n (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCiHVTkJtWSdc9N3h0nUGWLg
+    type: youtube
+    category: code
+    tier: 2
+  - name: IndyDevDan (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC_x36zCEGilGpB1m-V4gmjg
+    type: youtube
+    category: code
+    tier: 3
+  - name: Cole Medin (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCMwVTLZIRRUyyVrkjDpn4pA
+    type: youtube
+    category: code
+    tier: 3
+  - name: Nate Herk (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC2ojq-nuP8ceeHqiroeKhBA
+    type: youtube
+    category: code
+    tier: 3
+  - name: Theo t3.gg (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA
+    type: youtube
+    category: code
+    tier: 3
+  - name: Fireship (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA
+    type: youtube
+    category: code
+    tier: 3
+  - name: Google News · Coding agents
+    url: https://news.google.com/rss/search?q=%22Claude+Code%22+OR+%22OpenAI+Codex%22+OR+%22Cursor+AI%22+OR+%22GitHub+Copilot%22&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: code
+    tier: 3
+
+  # ---------- Mac Local AI ----------
+  - name: Ollama releases
+    url: https://github.com/ollama/ollama/releases.atom
+    type: github_releases
+    category: mac
+    tier: 1
+  - name: LM Studio Blog
+    url: https://lmstudio.ai/rss.xml
+    type: rss
+    category: mac
+    tier: 1
+  - name: LM Studio CLI releases
+    url: https://github.com/lmstudio-ai/lms/releases.atom
+    type: github_releases
+    category: mac
+    tier: 2
+  - name: MLX releases
+    url: https://github.com/ml-explore/mlx/releases.atom
+    type: github_releases
+    category: mac
+    tier: 1
+  - name: MLX LM releases
+    url: https://github.com/ml-explore/mlx-lm/releases.atom
+    type: github_releases
+    category: mac
+    tier: 2
+  - name: llama.cpp releases
+    url: https://github.com/ggml-org/llama.cpp/releases.atom
+    type: github_releases
+    category: mac
+    tier: 2
+  - name: Ollama (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwKzYuPkYJ_0v1kYOYXNmoA
+    type: youtube
+    category: mac
+    tier: 2
+  - name: Alex Ziskind (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCajiMK_CY9icRhLepS8_3ug
+    type: youtube
+    category: mac
+    tier: 3
+  - name: Google News · Local AI on Mac
+    url: https://news.google.com/rss/search?q=Ollama+OR+%22LM+Studio%22+OR+%22llama.cpp%22+OR+%22Apple+MLX%22&hl=en-US&gl=US&ceid=US:en
+    type: gnews
+    category: mac
+    tier: 3
+
+  # ---------- Crypto (prices come from CoinGecko in build.py) ----------
+  - name: CoinDesk
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/
+    type: rss
+    category: crypto
+    tier: 2
+  - name: The Block
+    url: https://www.theblock.co/rss.xml
+    type: rss
+    category: crypto
+    tier: 2
+  - name: Cointelegraph
+    url: https://cointelegraph.com/rss
+    type: rss
+    category: crypto
+    tier: 3
+
+  # ---------- Reselling ----------
+  - name: Google News · Vinted (EU)
+    url: https://news.google.com/rss/search?q=Vinted+(EU+OR+Europe+OR+Baltic+OR+Latvia+OR+Lithuania+OR+Estonia)&hl=en-GB&gl=GB&ceid=GB:en
+    type: gnews
+    category: reselling
+    tier: 2
+  - name: Google News · Vinted
+    url: https://news.google.com/rss/search?q=Vinted&hl=en-GB&gl=GB&ceid=GB:en
+    type: gnews
+    category: reselling
+    tier: 3
+  - name: Google News · Vinted (Latvian)
+    url: https://news.google.com/rss/search?q=Vinted&hl=lv&gl=LV&ceid=LV:lv
+    type: gnews
+    category: reselling
+    tier: 2
+  - name: Google News · Facebook Marketplace
+    url: https://news.google.com/rss/search?q=%22Facebook+Marketplace%22&hl=en-GB&gl=GB&ceid=GB:en
+    type: gnews
+    category: reselling
+    tier: 3
+  - name: Daily Refinement (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCkq7AY19BnmIsjRK14ePjcg
+    type: youtube
+    category: reselling
+    tier: 3
+  - name: RockstarFlipper (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCWsVWcWpjU-G4dCoBrMu_Ww
+    type: youtube
+    category: reselling
+    tier: 3
+  - name: Thrifting Vegas (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8iZgStRdA-UtDFvmAwt-3A
+    type: youtube
+    category: reselling
+    tier: 3
+
+  # ---------- Guides ----------
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    type: rss
+    category: guides
+    tier: 1
+  - name: Hugging Face (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w
+    type: youtube
+    category: guides
+    tier: 2
+  - name: NetworkChuck (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ
+    type: youtube
+    category: guides
+    tier: 3
+  - name: All About AI (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCR9j1jqqB5Rse69wjUnbYwA
+    type: youtube
+    category: guides
+    tier: 3

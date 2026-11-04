@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+data/*.tmp
+data/days/*.tmp
+.DS_Store

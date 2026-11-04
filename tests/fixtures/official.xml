@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Official Lab</title>
+<item><title>Introducing Claude Omega 5</title><link>https://www.example-lab.com/news/claude-omega?utm_source=rss</link>
+<description><![CDATA[<p>Today we are releasing <b>Claude Omega 5</b>, our most capable model. It is now available to all users.</p>]]></description>
+<pubDate>PUBDATE_FRESH</pubDate></item>
+<item><title>Our quarterly podcast episode 12</title><link>https://www.example-lab.com/podcast/12</link>
+<description>A chat about culture.</description><pubDate>PUBDATE_FRESH</pubDate></item>
+<item><title>Introducing the old model</title><link>https://www.example-lab.com/news/old</link>
+<description>Old news.</description><pubDate>PUBDATE_OLD</pubDate></item>
+</channel></rss>

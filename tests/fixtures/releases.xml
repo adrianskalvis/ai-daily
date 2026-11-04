@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Release notes from ollama</title>
+<entry><id>tag:github.com,2008:Repository/1/v0.14.0</id><updated>PUBISO_FRESH</updated>
+<link rel="alternate" href="https://github.com/ollama/ollama/releases/tag/v0.14.0"/><title>v0.14.0</title>
+<content type="html">&lt;p&gt;New models and a faster engine.&lt;/p&gt;</content></entry>
+<entry><id>tag:github.com,2008:Repository/1/v0.13.7</id><updated>PUBISO_FRESH</updated>
+<link rel="alternate" href="https://github.com/ollama/ollama/releases/tag/v0.13.7"/><title>v0.13.7</title>
+<content type="html">&lt;p&gt;Bug fixes.&lt;/p&gt;</content></entry>
+<entry><id>tag:github.com,2008:Repository/1/v0.15.0-rc1</id><updated>PUBISO_FRESH</updated>
+<link rel="alternate" href="https://github.com/ollama/ollama/releases/tag/v0.15.0-rc1"/><title>v0.15.0-rc1</title>
+<content type="html">&lt;p&gt;Pre-release.&lt;/p&gt;</content></entry>
+</feed>
