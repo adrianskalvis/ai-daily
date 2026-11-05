@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-05",
+ "updated": "2026-11-05T12:23:42.837769+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "3a06f84c0f51a102",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-04T14:30:00+00:00",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "why": "In 3 sources",
+   "score": 17.0,
+   "also_in": [
+    "Hacker News",
+    "OpenAI (via Google News)"
+   ],
+   "hn_points": 253,
+   "hn_url": "https://news.ycombinator.com/item?id=50366863"
+  },
+  {
+   "id": "f9743eda013cc0fd",
+   "title": "Introducing ChatGPT Images 2.6",
+   "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ",
+   "source": "OpenAI (YouTube)",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-05T02:32:21+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/bJldMYfRvMQ/hqdefault.jpg",
+   "why": "In 3 sources",
+   "score": 16.0,
+   "also_in": [
+    "Storyboard18 (via Google News)",
+    "BMI (via Google News)"
+   ],
+   "kind": "video"
+  },
+  {
+   "id": "89209ab642b10e25",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "url": "https://huggingface.co/blog/phonon-tts",
+   "source": "Hugging Face Blog",
+   "category": "guides",
+   "published": "2026-11-05T00:00:00+00:00",
+   "why": "Official release",
+   "score": 9.0
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 80079.0,
+    "change_24h": 2.51
+   },
+   {
+    "symbol": "ETH",
+    "usd": 2410.48,
+    "change_24h": 4.14
+   },
+   {
+    "symbol": "SOL",
+    "usd": 95.94,
+    "change_24h": 3.48
+   }
+  ],
+  "updated": "2026-11-05T12:24:00.119653+00:00"
+ },
+ "tip": {
+  "tag": "automation",
+  "text": "Store secrets in environment variables or repo secrets, never in code or commits."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

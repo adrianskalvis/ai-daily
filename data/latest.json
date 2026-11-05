@@ -1,76 +1,109 @@
 {
- "date": "2026-11-04",
- "updated": "2026-11-04T17:14:51.636342+00:00",
+ "date": "2026-11-05",
+ "updated": "2026-11-05T12:23:42.837769+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "75679f5aa60bfcf8",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "id": "3a06f84c0f51a102",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
    "source": "OpenAI News",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-04T07:00:00+00:00",
-   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-   "why": "Official release",
-   "score": 12.0
-  },
-  {
-   "id": "a2357e701f020223",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
-   "source": "OpenAI News",
-   "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-03T08:00:00+00:00",
-   "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-   "why": "In 2 sources",
-   "score": 11.0,
+   "published": "2026-11-04T14:30:00+00:00",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "why": "In 3 sources",
+   "score": 17.0,
    "also_in": [
+    "Hacker News",
     "OpenAI (via Google News)"
-   ]
+   ],
+   "hn_points": 253,
+   "hn_url": "https://news.ycombinator.com/item?id=50366863"
   },
   {
-   "id": "ea007e16eb2f9e07",
-   "title": "Tip about Facebook Marketplace listing leads to felony arrest",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzdsbldSOG5PZzFtWFRpdHFHTDkzRGo0Rm9oZUVYREVxZk1DdVdyWmNkUVNWajlnTmRCT0REeVAtSzhyR2E3MWNUZjlOVGowdzVFOHlpX2xYLUplWS1jVDN0Y1BKT2x6ZEszSmpDSTlHTG9uYnJZa2NWaEZwSzMwNXNmS0dKcVc2V3g2SEhKY2JSNkdTdXo4c3RsMGpXdk9teVozSmlJTHVvOE9PT1g0VEVaS0Q?oc=5",
-   "source": "Click2Houston (via Google News)",
-   "category": "reselling",
-   "published": "2026-11-04T00:39:46+00:00",
-   "why": "In 2 sources",
-   "score": 10.0,
+   "id": "f9743eda013cc0fd",
+   "title": "Introducing ChatGPT Images 2.6",
+   "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ",
+   "source": "OpenAI (YouTube)",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-05T02:32:21+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/bJldMYfRvMQ/hqdefault.jpg",
+   "why": "In 3 sources",
+   "score": 16.0,
    "also_in": [
-    "cedarnews.net (via Google News)"
-   ]
+    "Storyboard18 (via Google News)",
+    "BMI (via Google News)"
+   ],
+   "kind": "video"
+  },
+  {
+   "id": "89209ab642b10e25",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "url": "https://huggingface.co/blog/phonon-tts",
+   "source": "Hugging Face Blog",
+   "category": "guides",
+   "published": "2026-11-05T00:00:00+00:00",
+   "why": "Official release",
+   "score": 9.0
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 80306.0,
-    "change_24h": 3.39
+    "usd": 80079.0,
+    "change_24h": 2.51
    },
    {
     "symbol": "ETH",
-    "usd": 2422.23,
-    "change_24h": 5.48
+    "usd": 2410.48,
+    "change_24h": 4.14
    },
    {
     "symbol": "SOL",
     "usd": 95.94,
-    "change_24h": 2.69
+    "change_24h": 3.48
    }
   ],
-  "updated": "2026-11-04T17:15:10.252022+00:00"
+  "updated": "2026-11-05T12:24:00.119653+00:00"
  },
  "tip": {
   "tag": "automation",
-  "text": "Schedule jobs at odd minutes like :17. Everyone else runs at :00 and queues up."
+  "text": "Store secrets in environment variables or repo secrets, never in code or commits."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-05",
+   "picks": [
+    {
+     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+     "url": "https://openai.com/index/openai-to-acquire-pierre",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 3 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "Introducing ChatGPT Images 2.6",
+     "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ",
+     "source": "OpenAI (YouTube)",
+     "category": "ai",
+     "why": "In 3 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+     "url": "https://huggingface.co/blog/phonon-tts",
+     "source": "Hugging Face Blog",
+     "category": "guides",
+     "why": "Official release"
+    }
+   ]
+  },
   {
    "date": "2026-11-04",
    "picks": [
