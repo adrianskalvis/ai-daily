@@ -60,6 +60,21 @@
    "date": "2026-11-06",
    "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
    "title": "codex 0.167.0"
+  },
+  "d7e9e3e89ee778d6": {
+   "date": "2026-11-07",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+   "title": "Gemini Omni 1.2 Flash"
+  },
+  "5175c20e07f32dcb": {
+   "date": "2026-11-07",
+   "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+   "title": "GitHub Copilot weekly releases — November 2"
+  },
+  "f605e5793f36320b": {
+   "date": "2026-11-07",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
+   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits"
   }
  }
 }
