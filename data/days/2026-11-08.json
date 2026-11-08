@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-08",
+ "updated": "2026-11-08T11:17:41.764250+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "5186d80b7eef5626",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-07T20:45:32+00:00",
+   "why": "In 3 sources",
+   "score": 15.0,
+   "also_in": [
+    "Startup Fortune (via Google News)",
+    "The Hacker News (via Google News)"
+   ],
+   "hn_points": 419,
+   "hn_url": "https://news.ycombinator.com/item?id=50407882",
+   "kind": "hn"
+  },
+  {
+   "id": "e66f4eeac8f3ba07",
+   "title": "Goodbye Claude, Hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-08T03:11:48+00:00",
+   "why": "HN 345 points",
+   "score": 9.0,
+   "hn_points": 345,
+   "hn_url": "https://news.ycombinator.com/item?id=50410107",
+   "kind": "hn"
+  },
+  {
+   "id": "d8887a09bc5ec1d4",
+   "title": "The Components of Agent Memory",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-07T06:39:04+00:00",
+   "why": "HN 159 points",
+   "score": 7.18,
+   "hn_points": 159,
+   "hn_url": "https://news.ycombinator.com/item?id=50402212",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 75869.0,
+    "change_24h": -0.04
+   },
+   {
+    "symbol": "ETH",
+    "usd": 2235.25,
+    "change_24h": -0.36
+   },
+   {
+    "symbol": "SOL",
+    "usd": 89.23,
+    "change_24h": -0.71
+   }
+  ],
+  "updated": "2026-11-08T11:18:06.908151+00:00"
+ },
+ "tip": {
+  "tag": "automation",
+  "text": "Keep raw data and processed data in separate folders so you can rebuild from scratch."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

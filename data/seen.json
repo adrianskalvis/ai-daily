@@ -75,6 +75,21 @@
    "date": "2026-11-07",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits"
+  },
+  "5186d80b7eef5626": {
+   "date": "2026-11-08",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
+  },
+  "e66f4eeac8f3ba07": {
+   "date": "2026-11-08",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "title": "Goodbye Claude, Hello Pi"
+  },
+  "d8887a09bc5ec1d4": {
+   "date": "2026-11-08",
+   "url": "https://anthropic.com/research/components-of-agent-memory",
+   "title": "The Components of Agent Memory"
   }
  }
 }

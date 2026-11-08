@@ -1,86 +1,107 @@
 {
- "date": "2026-11-07",
- "updated": "2026-11-07T11:05:20.670217+00:00",
+ "date": "2026-11-08",
+ "updated": "2026-11-08T11:17:41.764250+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "d7e9e3e89ee778d6",
-   "title": "Gemini Omni 1.2 Flash",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "id": "5186d80b7eef5626",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
-   "category": "ai",
-   "llm": "Gemini",
-   "published": "2026-11-06T13:35:27+00:00",
-   "why": "In 7 sources",
-   "score": 19.0,
+   "category": "code",
+   "published": "2026-11-07T20:45:32+00:00",
+   "why": "In 3 sources",
+   "score": 15.0,
    "also_in": [
-    "Dataconomy (via Google News)",
-    "XenoSpectrum (via Google News)",
-    "Pasquale Pillitteri (via Google News)",
-    "Gadgets 360 (via Google News)",
-    "Techgenyz (via Google News)",
-    "FoneArena.com (via Google News)"
+    "Startup Fortune (via Google News)",
+    "The Hacker News (via Google News)"
    ],
-   "hn_points": 339,
-   "hn_url": "https://news.ycombinator.com/item?id=50392118",
+   "hn_points": 419,
+   "hn_url": "https://news.ycombinator.com/item?id=50407882",
    "kind": "hn"
   },
   {
-   "id": "5175c20e07f32dcb",
-   "title": "GitHub Copilot weekly releases — November 2",
-   "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-   "source": "GitHub Changelog · Copilot",
-   "category": "code",
-   "published": "2026-11-06T21:00:26+00:00",
-   "summary": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions.",
-   "why": "In 2 sources",
-   "score": 14.0,
-   "also_in": [
-    "The GitHub Blog (via Google News)"
-   ]
+   "id": "e66f4eeac8f3ba07",
+   "title": "Goodbye Claude, Hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-08T03:11:48+00:00",
+   "why": "HN 345 points",
+   "score": 9.0,
+   "hn_points": 345,
+   "hn_url": "https://news.ycombinator.com/item?id=50410107",
+   "kind": "hn"
   },
   {
-   "id": "f605e5793f36320b",
-   "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
-   "source": "The Hacker News (via Google News)",
-   "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-06T14:58:00+00:00",
-   "why": "In 2 sources",
-   "score": 13.0,
-   "also_in": [
-    "BleepingComputer (via Google News)"
-   ]
+   "id": "d8887a09bc5ec1d4",
+   "title": "The Components of Agent Memory",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-07T06:39:04+00:00",
+   "why": "HN 159 points",
+   "score": 7.18,
+   "hn_points": 159,
+   "hn_url": "https://news.ycombinator.com/item?id=50402212",
+   "kind": "hn"
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 75936.0,
-    "change_24h": -0.11
+    "usd": 75869.0,
+    "change_24h": -0.04
    },
    {
     "symbol": "ETH",
-    "usd": 2245.41,
-    "change_24h": 0.47
+    "usd": 2235.25,
+    "change_24h": -0.36
    },
    {
     "symbol": "SOL",
-    "usd": 89.97,
-    "change_24h": 0.05
+    "usd": 89.23,
+    "change_24h": -0.71
    }
   ],
-  "updated": "2026-11-07T11:05:39.102941+00:00"
+  "updated": "2026-11-08T11:18:06.908151+00:00"
  },
  "tip": {
   "tag": "automation",
-  "text": "In n8n or similar tools, add an error branch that sends you a message. Silent failures cost the most."
+  "text": "Keep raw data and processed data in separate folders so you can rebuild from scratch."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-08",
+   "picks": [
+    {
+     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "source": "Hacker News",
+     "category": "code",
+     "why": "In 3 sources"
+    },
+    {
+     "title": "Goodbye Claude, Hello Pi",
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 345 points",
+     "llm": "Claude"
+    },
+    {
+     "title": "The Components of Agent Memory",
+     "url": "https://www.anthropic.com/research/components-of-agent-memory",
+     "source": "Hacker News",
+     "category": "code",
+     "why": "HN 159 points"
+    }
+   ]
+  },
   {
    "date": "2026-11-07",
    "picks": [
