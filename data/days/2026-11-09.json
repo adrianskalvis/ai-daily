@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-09",
+ "updated": "2026-11-09T12:54:49.355633+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "05304c12da748ee1",
+   "title": "GPT-6.2 Sol Launches in Gray Release, Debuts Atop Leaderboard With Per-Task Cost Just 11.8% of Opus 5.5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRmNhdS01UlVlYU5ldk5JMlNZTTFWczFxb1RXc2hURk5QeEZzSHdObFRYZzBnVXE0QnNTbXhuQzhvZFdlaHR4V0JtdDhsb3lkdUhTbEhLOE9uWUlVaFBQUGo5a0FnbHYxZWdoX29HMXphODhZM0E?oc=5",
+   "source": "BigGo Finance (via Google News)",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-09T07:56:00+00:00",
+   "why": "Notable",
+   "score": 11.0
+  },
+  {
+   "id": "68ff5ed661ee40ec",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-08T18:16:07+00:00",
+   "why": "HN 802 points",
+   "score": 9.0,
+   "hn_points": 802,
+   "hn_url": "https://news.ycombinator.com/item?id=50415628",
+   "kind": "hn"
+  },
+  {
+   "id": "5e9d3fd0e59ccb77",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Llama",
+   "published": "2026-11-08T10:22:04+00:00",
+   "why": "HN 437 points",
+   "score": 9.0,
+   "hn_points": 437,
+   "hn_url": "https://news.ycombinator.com/item?id=50411961",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 74874.0,
+    "change_24h": -1.31
+   },
+   {
+    "symbol": "ETH",
+    "usd": 2125.52,
+    "change_24h": -4.96
+   },
+   {
+    "symbol": "SOL",
+    "usd": 86.75,
+    "change_24h": -3.03
+   }
+  ],
+  "updated": "2026-11-09T12:55:04.853061+00:00"
+ },
+ "tip": {
+  "tag": "automation",
+  "text": "Back up the one file your automation depends on. Everything else can be regenerated."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

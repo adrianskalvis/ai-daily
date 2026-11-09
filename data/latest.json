@@ -1,50 +1,44 @@
 {
- "date": "2026-11-08",
- "updated": "2026-11-08T11:17:41.764250+00:00",
+ "date": "2026-11-09",
+ "updated": "2026-11-09T12:54:49.355633+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "5186d80b7eef5626",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "id": "05304c12da748ee1",
+   "title": "GPT-6.2 Sol Launches in Gray Release, Debuts Atop Leaderboard With Per-Task Cost Just 11.8% of Opus 5.5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRmNhdS01UlVlYU5ldk5JMlNZTTFWczFxb1RXc2hURk5QeEZzSHdObFRYZzBnVXE0QnNTbXhuQzhvZFdlaHR4V0JtdDhsb3lkdUhTbEhLOE9uWUlVaFBQUGo5a0FnbHYxZWdoX29HMXphODhZM0E?oc=5",
+   "source": "BigGo Finance (via Google News)",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-09T07:56:00+00:00",
+   "why": "Notable",
+   "score": 11.0
+  },
+  {
+   "id": "68ff5ed661ee40ec",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "category": "code",
-   "published": "2026-11-07T20:45:32+00:00",
-   "why": "In 3 sources",
-   "score": 15.0,
-   "also_in": [
-    "Startup Fortune (via Google News)",
-    "The Hacker News (via Google News)"
-   ],
-   "hn_points": 419,
-   "hn_url": "https://news.ycombinator.com/item?id=50407882",
+   "published": "2026-11-08T18:16:07+00:00",
+   "why": "HN 802 points",
+   "score": 9.0,
+   "hn_points": 802,
+   "hn_url": "https://news.ycombinator.com/item?id=50415628",
    "kind": "hn"
   },
   {
-   "id": "e66f4eeac8f3ba07",
-   "title": "Goodbye Claude, Hello Pi",
-   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "id": "5e9d3fd0e59ccb77",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "url": "https://github.com/synchopate/llama-modchip",
    "source": "Hacker News",
    "category": "ai",
-   "llm": "Claude",
-   "published": "2026-11-08T03:11:48+00:00",
-   "why": "HN 345 points",
+   "llm": "Llama",
+   "published": "2026-11-08T10:22:04+00:00",
+   "why": "HN 437 points",
    "score": 9.0,
-   "hn_points": 345,
-   "hn_url": "https://news.ycombinator.com/item?id=50410107",
-   "kind": "hn"
-  },
-  {
-   "id": "d8887a09bc5ec1d4",
-   "title": "The Components of Agent Memory",
-   "url": "https://www.anthropic.com/research/components-of-agent-memory",
-   "source": "Hacker News",
-   "category": "code",
-   "published": "2026-11-07T06:39:04+00:00",
-   "why": "HN 159 points",
-   "score": 7.18,
-   "hn_points": 159,
-   "hn_url": "https://news.ycombinator.com/item?id=50402212",
+   "hn_points": 437,
+   "hn_url": "https://news.ycombinator.com/item?id=50411961",
    "kind": "hn"
   }
  ],
@@ -52,29 +46,57 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 75869.0,
-    "change_24h": -0.04
+    "usd": 74874.0,
+    "change_24h": -1.31
    },
    {
     "symbol": "ETH",
-    "usd": 2235.25,
-    "change_24h": -0.36
+    "usd": 2125.52,
+    "change_24h": -4.96
    },
    {
     "symbol": "SOL",
-    "usd": 89.23,
-    "change_24h": -0.71
+    "usd": 86.75,
+    "change_24h": -3.03
    }
   ],
-  "updated": "2026-11-08T11:18:06.908151+00:00"
+  "updated": "2026-11-09T12:55:04.853061+00:00"
  },
  "tip": {
   "tag": "automation",
-  "text": "Keep raw data and processed data in separate folders so you can rebuild from scratch."
+  "text": "Back up the one file your automation depends on. Everything else can be regenerated."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-09",
+   "picks": [
+    {
+     "title": "GPT-6.2 Sol Launches in Gray Release, Debuts Atop Leaderboard With Per-Task Cost Just 11.8% of Opus 5.5",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRmNhdS01UlVlYU5ldk5JMlNZTTFWczFxb1RXc2hURk5QeEZzSHdObFRYZzBnVXE0QnNTbXhuQzhvZFdlaHR4V0JtdDhsb3lkdUhTbEhLOE9uWUlVaFBQUGo5a0FnbHYxZWdoX29HMXphODhZM0E?oc=5",
+     "source": "BigGo Finance (via Google News)",
+     "category": "ai",
+     "why": "Notable",
+     "llm": "GPT"
+    },
+    {
+     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "source": "Hacker News",
+     "category": "code",
+     "why": "HN 802 points"
+    },
+    {
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "url": "https://github.com/synchopate/llama-modchip",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 437 points",
+     "llm": "Llama"
+    }
+   ]
+  },
   {
    "date": "2026-11-08",
    "picks": [

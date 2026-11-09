@@ -90,6 +90,21 @@
    "date": "2026-11-08",
    "url": "https://anthropic.com/research/components-of-agent-memory",
    "title": "The Components of Agent Memory"
+  },
+  "05304c12da748ee1": {
+   "date": "2026-11-09",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRmNhdS01UlVlYU5ldk5JMlNZTTFWczFxb1RXc2hURk5QeEZzSHdObFRYZzBnVXE0QnNTbXhuQzhvZFdlaHR4V0JtdDhsb3lkdUhTbEhLOE9uWUlVaFBQUGo5a0FnbHYxZWdoX29HMXphODhZM0E?oc=5",
+   "title": "GPT-6.2 Sol Launches in Gray Release, Debuts Atop Leaderboard With Per-Task Cost Just 11.8% of Opus 5.5"
+  },
+  "68ff5ed661ee40ec": {
+   "date": "2026-11-09",
+   "url": "https://thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders"
+  },
+  "5e9d3fd0e59ccb77": {
+   "date": "2026-11-09",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
   }
  }
 }
