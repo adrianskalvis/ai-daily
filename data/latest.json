@@ -1,74 +1,120 @@
 {
- "date": "2026-11-09",
- "updated": "2026-11-09T12:54:49.355633+00:00",
+ "date": "2026-11-10",
+ "updated": "2026-11-10T12:40:32.482397+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "05304c12da748ee1",
-   "title": "GPT-6.2 Sol Launches in Gray Release, Debuts Atop Leaderboard With Per-Task Cost Just 11.8% of Opus 5.5",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRmNhdS01UlVlYU5ldk5JMlNZTTFWczFxb1RXc2hURk5QeEZzSHdObFRYZzBnVXE0QnNTbXhuQzhvZFdlaHR4V0JtdDhsb3lkdUhTbEhLOE9uWUlVaFBQUGo5a0FnbHYxZWdoX29HMXphODhZM0E?oc=5",
-   "source": "BigGo Finance (via Google News)",
+   "id": "95fd06b571da93e2",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5",
+   "source": "The Verge (via Google News)",
    "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-09T07:56:00+00:00",
-   "why": "Notable",
-   "score": 11.0
+   "llm": "Claude",
+   "published": "2026-11-09T19:00:00+00:00",
+   "why": "In 12 sources",
+   "score": 20.0,
+   "also_in": [
+    "MacRumors (via Google News)",
+    "Resultsense (via Google News)",
+    "TestingCatalog AI News (via Google News)",
+    "UA.NEWS (via Google News)",
+    "NDTV (via Google News)",
+    "SD Times (via Google News)",
+    "Root-Nation.com (via Google News)",
+    "IndexBox (via Google News)",
+    "Mezha.net (via Google News)",
+    "Briefs Finance (via Google News)",
+    "Gulf News (via Google News)"
+   ]
   },
   {
-   "id": "68ff5ed661ee40ec",
-   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "source": "Hacker News",
+   "id": "f4c5282f5ec06388",
+   "title": "Meet Claude Fable 5.2",
+   "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
+   "source": "Claude (YouTube)",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-09T19:04:05+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/4sV2Wzo1V1s/hqdefault.jpg",
+   "why": "In 2 sources",
+   "score": 16.0,
+   "also_in": [
+    "Hacker News"
+   ],
+   "hn_points": 978,
+   "hn_url": "https://news.ycombinator.com/item?id=50429906",
+   "kind": "video"
+  },
+  {
+   "id": "773234e7b2aca6b3",
+   "title": "Claude Fable 5.2 in GitHub Copilot",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub Changelog · Copilot",
    "category": "code",
-   "published": "2026-11-08T18:16:07+00:00",
-   "why": "HN 802 points",
-   "score": 9.0,
-   "hn_points": 802,
-   "hn_url": "https://news.ycombinator.com/item?id=50415628",
-   "kind": "hn"
-  },
-  {
-   "id": "5e9d3fd0e59ccb77",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "url": "https://github.com/synchopate/llama-modchip",
-   "source": "Hacker News",
-   "category": "ai",
-   "llm": "Llama",
-   "published": "2026-11-08T10:22:04+00:00",
-   "why": "HN 437 points",
-   "score": 9.0,
-   "hn_points": 437,
-   "hn_url": "https://news.ycombinator.com/item?id=50411961",
-   "kind": "hn"
+   "published": "2026-11-09T16:46:43+00:00",
+   "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot.",
+   "why": "In 2 sources",
+   "score": 14.0,
+   "also_in": [
+    "The GitHub Blog (via Google News)"
+   ]
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 74874.0,
-    "change_24h": -1.31
+    "usd": 74169.0,
+    "change_24h": -0.87
    },
    {
     "symbol": "ETH",
-    "usd": 2125.52,
-    "change_24h": -4.96
+    "usd": 2085.9,
+    "change_24h": -1.82
    },
    {
     "symbol": "SOL",
-    "usd": 86.75,
-    "change_24h": -3.03
+    "usd": 84.6,
+    "change_24h": -2.46
    }
   ],
-  "updated": "2026-11-09T12:55:04.853061+00:00"
+  "updated": "2026-11-10T12:40:47.725440+00:00"
  },
  "tip": {
-  "tag": "automation",
-  "text": "Back up the one file your automation depends on. Everything else can be regenerated."
+  "tag": "reselling",
+  "text": "Shoot photos in daylight near a window. Natural light sells more than any filter."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-10",
+   "picks": [
+    {
+     "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5",
+     "source": "The Verge (via Google News)",
+     "category": "ai",
+     "why": "In 12 sources",
+     "llm": "Claude"
+    },
+    {
+     "title": "Meet Claude Fable 5.2",
+     "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
+     "source": "Claude (YouTube)",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "Claude"
+    },
+    {
+     "title": "Claude Fable 5.2 in GitHub Copilot",
+     "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+     "source": "GitHub Changelog · Copilot",
+     "category": "code",
+     "why": "In 2 sources"
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "picks": [

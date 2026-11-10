@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-10",
+ "updated": "2026-11-10T12:40:32.482397+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "95fd06b571da93e2",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5",
+   "source": "The Verge (via Google News)",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-09T19:00:00+00:00",
+   "why": "In 12 sources",
+   "score": 20.0,
+   "also_in": [
+    "MacRumors (via Google News)",
+    "Resultsense (via Google News)",
+    "TestingCatalog AI News (via Google News)",
+    "UA.NEWS (via Google News)",
+    "NDTV (via Google News)",
+    "SD Times (via Google News)",
+    "Root-Nation.com (via Google News)",
+    "IndexBox (via Google News)",
+    "Mezha.net (via Google News)",
+    "Briefs Finance (via Google News)",
+    "Gulf News (via Google News)"
+   ]
+  },
+  {
+   "id": "f4c5282f5ec06388",
+   "title": "Meet Claude Fable 5.2",
+   "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
+   "source": "Claude (YouTube)",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-09T19:04:05+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/4sV2Wzo1V1s/hqdefault.jpg",
+   "why": "In 2 sources",
+   "score": 16.0,
+   "also_in": [
+    "Hacker News"
+   ],
+   "hn_points": 978,
+   "hn_url": "https://news.ycombinator.com/item?id=50429906",
+   "kind": "video"
+  },
+  {
+   "id": "773234e7b2aca6b3",
+   "title": "Claude Fable 5.2 in GitHub Copilot",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub Changelog · Copilot",
+   "category": "code",
+   "published": "2026-11-09T16:46:43+00:00",
+   "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot.",
+   "why": "In 2 sources",
+   "score": 14.0,
+   "also_in": [
+    "The GitHub Blog (via Google News)"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 74169.0,
+    "change_24h": -0.87
+   },
+   {
+    "symbol": "ETH",
+    "usd": 2085.9,
+    "change_24h": -1.82
+   },
+   {
+    "symbol": "SOL",
+    "usd": 84.6,
+    "change_24h": -2.46
+   }
+  ],
+  "updated": "2026-11-10T12:40:47.725440+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Shoot photos in daylight near a window. Natural light sells more than any filter."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}
