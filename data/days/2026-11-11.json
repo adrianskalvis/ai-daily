@@ -1,0 +1,86 @@
+{
+ "date": "2026-11-11",
+ "updated": "2026-11-11T11:53:29.279802+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "fc6b6a56df7b3650",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "llm": "Gemini",
+   "published": "2026-11-10T16:03:47+00:00",
+   "why": "In 7 sources",
+   "score": 27.0,
+   "also_in": [
+    "Hacker News",
+    "blog.google (via Google News)",
+    "Engadget (via Google News)",
+    "Business Today (via Google News)",
+    "Hindustan Times (via Google News)",
+    "VentureBeat (via Google News)"
+   ],
+   "hn_points": 285,
+   "hn_url": "https://news.ycombinator.com/item?id=50442303"
+  },
+  {
+   "id": "519fe7bf48efed3b",
+   "title": "Introducing Claude Whiteboards, Sheets, and Data",
+   "url": "https://www.youtube.com/watch?v=YewAJPawE7I",
+   "source": "Claude (YouTube)",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-10T17:26:09+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/YewAJPawE7I/hqdefault.jpg",
+   "why": "In 2 sources",
+   "score": 19.84,
+   "also_in": [
+    "Hacker News"
+   ],
+   "hn_points": 242,
+   "hn_url": "https://news.ycombinator.com/item?id=50443716",
+   "kind": "video"
+  },
+  {
+   "id": "0fe8b882dbb9b0ec",
+   "title": "Gemini 4 Carbon in GitHub Copilot",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub Changelog · Copilot",
+   "category": "code",
+   "published": "2026-11-10T19:26:51+00:00",
+   "summary": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot.",
+   "why": "In 2 sources",
+   "score": 17.0,
+   "also_in": [
+    "The GitHub Blog (via Google News)"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 73994.0,
+    "change_24h": -0.47
+   },
+   {
+    "symbol": "ETH",
+    "usd": 2056.72,
+    "change_24h": -1.75
+   },
+   {
+    "symbol": "SOL",
+    "usd": 83.98,
+    "change_24h": -0.79
+   }
+  ],
+  "updated": "2026-11-11T11:53:44.917629+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Use a plain background: a white wall, a wooden floor or a neutral bedsheet."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

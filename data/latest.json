@@ -1,60 +1,57 @@
 {
- "date": "2026-11-10",
- "updated": "2026-11-10T12:40:32.482397+00:00",
+ "date": "2026-11-11",
+ "updated": "2026-11-11T11:53:29.279802+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "95fd06b571da93e2",
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5",
-   "source": "The Verge (via Google News)",
+   "id": "fc6b6a56df7b3650",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
    "category": "ai",
-   "llm": "Claude",
-   "published": "2026-11-09T19:00:00+00:00",
-   "why": "In 12 sources",
-   "score": 20.0,
+   "llm": "Gemini",
+   "published": "2026-11-10T16:03:47+00:00",
+   "why": "In 7 sources",
+   "score": 27.0,
    "also_in": [
-    "MacRumors (via Google News)",
-    "Resultsense (via Google News)",
-    "TestingCatalog AI News (via Google News)",
-    "UA.NEWS (via Google News)",
-    "NDTV (via Google News)",
-    "SD Times (via Google News)",
-    "Root-Nation.com (via Google News)",
-    "IndexBox (via Google News)",
-    "Mezha.net (via Google News)",
-    "Briefs Finance (via Google News)",
-    "Gulf News (via Google News)"
-   ]
+    "Hacker News",
+    "blog.google (via Google News)",
+    "Engadget (via Google News)",
+    "Business Today (via Google News)",
+    "Hindustan Times (via Google News)",
+    "VentureBeat (via Google News)"
+   ],
+   "hn_points": 285,
+   "hn_url": "https://news.ycombinator.com/item?id=50442303"
   },
   {
-   "id": "f4c5282f5ec06388",
-   "title": "Meet Claude Fable 5.2",
-   "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
+   "id": "519fe7bf48efed3b",
+   "title": "Introducing Claude Whiteboards, Sheets, and Data",
+   "url": "https://www.youtube.com/watch?v=YewAJPawE7I",
    "source": "Claude (YouTube)",
    "category": "ai",
    "llm": "Claude",
-   "published": "2026-11-09T19:04:05+00:00",
-   "thumbnail": "https://i.ytimg.com/vi/4sV2Wzo1V1s/hqdefault.jpg",
+   "published": "2026-11-10T17:26:09+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/YewAJPawE7I/hqdefault.jpg",
    "why": "In 2 sources",
-   "score": 16.0,
+   "score": 19.84,
    "also_in": [
     "Hacker News"
    ],
-   "hn_points": 978,
-   "hn_url": "https://news.ycombinator.com/item?id=50429906",
+   "hn_points": 242,
+   "hn_url": "https://news.ycombinator.com/item?id=50443716",
    "kind": "video"
   },
   {
-   "id": "773234e7b2aca6b3",
-   "title": "Claude Fable 5.2 in GitHub Copilot",
-   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "id": "0fe8b882dbb9b0ec",
+   "title": "Gemini 4 Carbon in GitHub Copilot",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
    "source": "GitHub Changelog · Copilot",
    "category": "code",
-   "published": "2026-11-09T16:46:43+00:00",
-   "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot.",
+   "published": "2026-11-10T19:26:51+00:00",
+   "summary": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot.",
    "why": "In 2 sources",
-   "score": 14.0,
+   "score": 17.0,
    "also_in": [
     "The GitHub Blog (via Google News)"
    ]
@@ -64,29 +61,57 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 74169.0,
-    "change_24h": -0.87
+    "usd": 73994.0,
+    "change_24h": -0.47
    },
    {
     "symbol": "ETH",
-    "usd": 2085.9,
-    "change_24h": -1.82
+    "usd": 2056.72,
+    "change_24h": -1.75
    },
    {
     "symbol": "SOL",
-    "usd": 84.6,
-    "change_24h": -2.46
+    "usd": 83.98,
+    "change_24h": -0.79
    }
   ],
-  "updated": "2026-11-10T12:40:47.725440+00:00"
+  "updated": "2026-11-11T11:53:44.917629+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Shoot photos in daylight near a window. Natural light sells more than any filter."
+  "text": "Use a plain background: a white wall, a wooden floor or a neutral bedsheet."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-11",
+   "picks": [
+    {
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+     "source": "Google DeepMind",
+     "category": "ai",
+     "why": "In 7 sources",
+     "llm": "Gemini"
+    },
+    {
+     "title": "Introducing Claude Whiteboards, Sheets, and Data",
+     "url": "https://www.youtube.com/watch?v=YewAJPawE7I",
+     "source": "Claude (YouTube)",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "Claude"
+    },
+    {
+     "title": "Gemini 4 Carbon in GitHub Copilot",
+     "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+     "source": "GitHub Changelog · Copilot",
+     "category": "code",
+     "why": "In 2 sources"
+    }
+   ]
+  },
   {
    "date": "2026-11-10",
    "picks": [
@@ -251,34 +276,6 @@
      "source": "Hugging Face Blog",
      "category": "guides",
      "why": "Official release"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-04",
-   "picks": [
-    {
-     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "Official release",
-     "llm": "GPT"
-    },
-    {
-     "title": "How Cisco defends at machine speed with OpenAI",
-     "url": "https://openai.com/index/cisco-cyber",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "Tip about Facebook Marketplace listing leads to felony arrest",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzdsbldSOG5PZzFtWFRpdHFHTDkzRGo0Rm9oZUVYREVxZk1DdVdyWmNkUVNWajlnTmRCT0REeVAtSzhyR2E3MWNUZjlOVGowdzVFOHlpX2xYLUplWS1jVDN0Y1BKT2x6ZEszSmpDSTlHTG9uYnJZa2NWaEZwSzMwNXNmS0dKcVc2V3g2SEhKY2JSNkdTdXo4c3RsMGpXdk9teVozSmlJTHVvOE9PT1g0VEVaS0Q?oc=5",
-     "source": "Click2Houston (via Google News)",
-     "category": "reselling",
-     "why": "In 2 sources"
     }
    ]
   }
