@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-12",
+ "updated": "2026-11-12T12:44:22.922939+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "cce714811b519a82",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Google AI Blog",
+   "category": "ai",
+   "llm": "Gemini",
+   "published": "2026-11-11T18:00:00+00:00",
+   "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+   "why": "In 4 sources",
+   "score": 18.0,
+   "also_in": [
+    "Simon Willison",
+    "Hacker News",
+    "blog.google (via Google News)"
+   ],
+   "hn_points": 461,
+   "hn_url": "https://news.ycombinator.com/item?id=50456791"
+  },
+  {
+   "id": "17b80a11b6e1ea36",
+   "title": "Google Launches Gemini 4 Carbon as Its Strongest Model for Autonomous AI Agents",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmJpckpNaFROYTdvdnJTZFJJODNfaXdQYW1PQkgxWW9zNTEtRFN6ZmlkNTE2clI4akJad2ZDS0t2YmZaM2RtckIxamo4UUk2VVI3TFZWblBmTlZlb0VTX0FYOU5MZl8wY0hlTUJJSGxrUC00MzhxNl9NdlJLdnZueFZDSE5za2xxYVBGV1dtNE1teUZJOUg2d201OVJfUnFrQ0Rxbkx3ZTdoUXJSVEJTUVhsNA?oc=5",
+   "source": "Brave New Coin (via Google News)",
+   "category": "ai",
+   "llm": "Gemini",
+   "published": "2026-11-11T07:06:47+00:00",
+   "why": "In 2 sources",
+   "score": 13.0,
+   "also_in": [
+    "ForkLog (via Google News)"
+   ]
+  },
+  {
+   "id": "88e62dcb316dd43d",
+   "title": "A More Predictable Release Cycle for MCP",
+   "url": "https://blog.modelcontextprotocol.io/posts/mcp-release-cycle/",
+   "source": "MCP Blog",
+   "category": "code",
+   "published": "2026-11-11T09:00:00+00:00",
+   "summary": "We’ve spent a lot of time over the past two years talking about ways to improve MCP, add new features and capabilities, and get on a more predictable release…",
+   "why": "Official release",
+   "score": 9.0
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 72800.0,
+    "change_24h": -1.51
+   },
+   {
+    "symbol": "ETH",
+    "usd": 2019.65,
+    "change_24h": -1.61
+   },
+   {
+    "symbol": "SOL",
+    "usd": 82.19,
+    "change_24h": -1.89
+   }
+  ],
+  "updated": "2026-11-12T12:44:44.492813+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Take 5 to 8 photos: front, back, label, size tag, any flaw and one worn or styled shot."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

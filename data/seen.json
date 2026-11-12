@@ -135,6 +135,21 @@
    "date": "2026-11-11",
    "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
    "title": "Gemini 4 Carbon in GitHub Copilot"
+  },
+  "cce714811b519a82": {
+   "date": "2026-11-12",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions"
+  },
+  "17b80a11b6e1ea36": {
+   "date": "2026-11-12",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmJpckpNaFROYTdvdnJTZFJJODNfaXdQYW1PQkgxWW9zNTEtRFN6ZmlkNTE2clI4akJad2ZDS0t2YmZaM2RtckIxamo4UUk2VVI3TFZWblBmTlZlb0VTX0FYOU5MZl8wY0hlTUJJSGxrUC00MzhxNl9NdlJLdnZueFZDSE5za2xxYVBGV1dtNE1teUZJOUg2d201OVJfUnFrQ0Rxbkx3ZTdoUXJSVEJTUVhsNA?oc=5",
+   "title": "Google Launches Gemini 4 Carbon as Its Strongest Model for Autonomous AI Agents"
+  },
+  "88e62dcb316dd43d": {
+   "date": "2026-11-12",
+   "url": "https://blog.modelcontextprotocol.io/posts/mcp-release-cycle",
+   "title": "A More Predictable Release Cycle for MCP"
   }
  }
 }
