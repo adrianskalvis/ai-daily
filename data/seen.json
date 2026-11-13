@@ -150,6 +150,21 @@
    "date": "2026-11-12",
    "url": "https://blog.modelcontextprotocol.io/posts/mcp-release-cycle",
    "title": "A More Predictable Release Cycle for MCP"
+  },
+  "a8d5fa7d24b3647f": {
+   "date": "2026-11-13",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+   "title": "Introducing Gemini 4 Hydrogen"
+  },
+  "983259c86539ef4e": {
+   "date": "2026-11-13",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRkc1VVp1bWkwV01XelZuRm1XUVhHN1l5ME9uY2N2YjBiRUZNNVgzQUJKTEFsRXRZMUlxbWJac0d0YUF1b09PaUdUTTVPRllROHZyQ2dQZkFCdUhYYU9CYlZVUDJSZF9mUVhXQWxqNkJKNnY2Z01sRTJvTHA0V3lJYUtBMGZJUVJkUWZiQ2kxdGRGdnFaTWw4RzNmTWZkM1lVZm1iRmRKeTIxWS1HUVhsZXZzVl9DeFdIa1l5M09zSmJya0pYQnhNOVMyTHgtUzdwRmJ6M3FBYkxyaHd6M0FSVFVMSThpZmN0MzB0ZGFZRUhKWVdvcHhHQ1VRZUtpZ9IBgwJBVV95cUxOaFVPRmZmSFRtb0o3WHhBWncyU0ItY3BBSjVJWGVmNHYyNG1MU3Q1ZHpuX0loVUs0OE4tSEpEZVJFeTh2M1QzSUcwSU1Xc2xkT01jNmVpVTVwU2piTWN6YjdSRkNXUmpGX3BjQ0VHWXZqUHFIaG9PU2FnMDV6QmpwWF9wc1FhVGNZd05TMDA1aG1QX29tR21lNEpKZklldnU3eEFYTzFEQ0MwbVN0VTJSOGhjUWdpVGM0akFCRFE4Qi03bFp4aHA4SHE1X2MwZGh6Q2NyUVFaQWVGMEV0Q2ZUYXVIVzRwYUI1RUZRMkZUd0NXcEFIQzVLekdXcnZFYXhXdUdR?oc=5",
+   "title": "Google launches Gemini 4 Hydrogen AI model for faster coding, search and everyday tasks"
+  },
+  "44da454e7900959c": {
+   "date": "2026-11-13",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com"
   }
  }
 }

@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-13",
+ "updated": "2026-11-13T12:14:44.998204+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "a8d5fa7d24b3647f",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source": "Google DeepMind",
+   "category": "ai",
+   "llm": "Gemini",
+   "published": "2026-11-12T18:00:50+00:00",
+   "why": "In 6 sources",
+   "score": 27.0,
+   "also_in": [
+    "Hacker News",
+    "blog.google (via Google News)",
+    "Tech Times (via Google News)",
+    "Deccan Chronicle (via Google News)",
+    "36氪 (via Google News)"
+   ],
+   "hn_points": 537,
+   "hn_url": "https://news.ycombinator.com/item?id=50471431"
+  },
+  {
+   "id": "983259c86539ef4e",
+   "title": "Google launches Gemini 4 Hydrogen AI model for faster coding, search and everyday tasks",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRkc1VVp1bWkwV01XelZuRm1XUVhHN1l5ME9uY2N2YjBiRUZNNVgzQUJKTEFsRXRZMUlxbWJac0d0YUF1b09PaUdUTTVPRllROHZyQ2dQZkFCdUhYYU9CYlZVUDJSZF9mUVhXQWxqNkJKNnY2Z01sRTJvTHA0V3lJYUtBMGZJUVJkUWZiQ2kxdGRGdnFaTWw4RzNmTWZkM1lVZm1iRmRKeTIxWS1HUVhsZXZzVl9DeFdIa1l5M09zSmJya0pYQnhNOVMyTHgtUzdwRmJ6M3FBYkxyaHd6M0FSVFVMSThpZmN0MzB0ZGFZRUhKWVdvcHhHQ1VRZUtpZ9IBgwJBVV95cUxOaFVPRmZmSFRtb0o3WHhBWncyU0ItY3BBSjVJWGVmNHYyNG1MU3Q1ZHpuX0loVUs0OE4tSEpEZVJFeTh2M1QzSUcwSU1Xc2xkT01jNmVpVTVwU2piTWN6YjdSRkNXUmpGX3BjQ0VHWXZqUHFIaG9PU2FnMDV6QmpwWF9wc1FhVGNZd05TMDA1aG1QX29tR21lNEpKZklldnU3eEFYTzFEQ0MwbVN0VTJSOGhjUWdpVGM0akFCRFE4Qi03bFp4aHA4SHE1X2MwZGh6Q2NyUVFaQWVGMEV0Q2ZUYXVIVzRwYUI1RUZRMkZUd0NXcEFIQzVLekdXcnZFYXhXdUdR?oc=5",
+   "source": "The Times of India (via Google News)",
+   "category": "ai",
+   "llm": "Gemini",
+   "published": "2026-11-13T09:24:00+00:00",
+   "why": "In 5 sources",
+   "score": 16.0,
+   "also_in": [
+    "Kingy AI (via Google News)",
+    "Interesting Engineering (via Google News)",
+    "WinBuzzer (via Google News)",
+    "Analytics India Magazine (via Google News)"
+   ]
+  },
+  {
+   "id": "44da454e7900959c",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-13T10:18:13+00:00",
+   "why": "HN 246 points",
+   "score": 8.92,
+   "hn_points": 246,
+   "hn_url": "https://news.ycombinator.com/item?id=50481187",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 69402.0,
+    "change_24h": -4.96
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1962.17,
+    "change_24h": -3.18
+   },
+   {
+    "symbol": "SOL",
+    "usd": 80.74,
+    "change_24h": -2.29
+   }
+  ],
+  "updated": "2026-11-13T12:15:07.018688+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Photograph every flaw up close. Buyers who see it first rarely open a dispute."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}
