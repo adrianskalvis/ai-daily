@@ -165,6 +165,21 @@
    "date": "2026-11-13",
    "url": "https://status.claude.com/incidents/nn11wk485zfn",
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com"
+  },
+  "5bf4951adbe9698d": {
+   "date": "2026-11-14",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "title": "Introducing ChatGPT Wallet"
+  },
+  "423adf6f811cef72": {
+   "date": "2026-11-14",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+   "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users"
+  },
+  "18a36c2817e7236e": {
+   "date": "2026-11-14",
+   "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+   "title": "GitHub Enterprise Server support in the GitHub Copilot app"
   }
  }
 }

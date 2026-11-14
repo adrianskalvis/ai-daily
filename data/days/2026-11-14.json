@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-14",
+ "updated": "2026-11-14T11:29:09.711931+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "5bf4951adbe9698d",
+   "title": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-13T15:00:00+00:00",
+   "summary": ", a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "why": "In 6 sources",
+   "score": 19.0,
+   "also_in": [
+    "OpenAI (via Google News)",
+    "Investing.com (via Google News)",
+    "Chain Store Age (via Google News)",
+    "citybiz (via Google News)",
+    "Indian Television Dot Com (via Google News)"
+   ]
+  },
+  {
+   "id": "423adf6f811cef72",
+   "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+   "source": "CNBC (via Google News)",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-13T15:00:01+00:00",
+   "why": "In 7 sources",
+   "score": 15.0,
+   "also_in": [
+    "Briefs Finance (via Google News)",
+    "The Information (via Google News)",
+    "Finextra Research (via Google News)",
+    "TestingCatalog AI News (via Google News)",
+    "marketscreener.com (via Google News)",
+    "Yahoo Tech (via Google News)"
+   ]
+  },
+  {
+   "id": "18a36c2817e7236e",
+   "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+   "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+   "source": "GitHub Changelog · Copilot",
+   "category": "code",
+   "published": "2026-11-13T18:27:13+00:00",
+   "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app.",
+   "why": "In 2 sources",
+   "score": 11.0,
+   "also_in": [
+    "The GitHub Blog (via Google News)"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 67202.0,
+    "change_24h": -2.97
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1907.29,
+    "change_24h": -2.46
+   },
+   {
+    "symbol": "SOL",
+    "usd": 75.75,
+    "change_24h": -5.85
+   }
+  ],
+  "updated": "2026-11-14T11:29:26.553673+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Iron or steam clothes before shooting. Wrinkles read as worn out."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}
