@@ -1,58 +1,47 @@
 {
- "date": "2026-11-14",
- "updated": "2026-11-14T11:29:09.711931+00:00",
+ "date": "2026-11-15",
+ "updated": "2026-11-15T11:58:04.961590+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "5bf4951adbe9698d",
-   "title": "Introducing ChatGPT Wallet",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
-   "source": "OpenAI News",
+   "id": "605e853ed573546e",
+   "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5",
+   "source": "Decrypt (via Google News)",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-13T15:00:00+00:00",
-   "summary": ", a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-   "why": "In 6 sources",
-   "score": 19.0,
+   "published": "2026-11-14T14:01:02+00:00",
+   "why": "In 2 sources",
+   "score": 10.0,
    "also_in": [
-    "OpenAI (via Google News)",
-    "Investing.com (via Google News)",
-    "Chain Store Age (via Google News)",
-    "citybiz (via Google News)",
-    "Indian Television Dot Com (via Google News)"
-   ]
-  },
-  {
-   "id": "423adf6f811cef72",
-   "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
-   "source": "CNBC (via Google News)",
-   "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-13T15:00:01+00:00",
-   "why": "In 7 sources",
-   "score": 15.0,
-   "also_in": [
-    "Briefs Finance (via Google News)",
-    "The Information (via Google News)",
-    "Finextra Research (via Google News)",
-    "TestingCatalog AI News (via Google News)",
-    "marketscreener.com (via Google News)",
     "Yahoo Tech (via Google News)"
    ]
   },
   {
-   "id": "18a36c2817e7236e",
-   "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-   "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-   "source": "GitHub Changelog · Copilot",
+   "id": "ad8b3d5bdfd0d7ff",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "DeepSeek",
+   "published": "2026-11-14T15:04:15+00:00",
+   "why": "HN 241 points",
+   "score": 8.82,
+   "hn_points": 241,
+   "hn_url": "https://news.ycombinator.com/item?id=50497589",
+   "kind": "hn"
+  },
+  {
+   "id": "5b622551fdf913b0",
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
+   "source": "BleepingComputer (via Google News)",
    "category": "code",
-   "published": "2026-11-13T18:27:13+00:00",
-   "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app.",
+   "published": "2026-11-14T17:27:25+00:00",
    "why": "In 2 sources",
-   "score": 11.0,
+   "score": 7.0,
    "also_in": [
-    "The GitHub Blog (via Google News)"
+    "Mezha.net (via Google News)"
    ]
   }
  ],
@@ -60,29 +49,57 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 67202.0,
-    "change_24h": -2.97
+    "usd": 65419.0,
+    "change_24h": -2.66
    },
    {
     "symbol": "ETH",
-    "usd": 1907.29,
-    "change_24h": -2.46
+    "usd": 1829.81,
+    "change_24h": -4.11
    },
    {
     "symbol": "SOL",
-    "usd": 75.75,
-    "change_24h": -5.85
+    "usd": 72.49,
+    "change_24h": -4.48
    }
   ],
-  "updated": "2026-11-14T11:29:26.553673+00:00"
+  "updated": "2026-11-15T11:58:21.895389+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Iron or steam clothes before shooting. Wrinkles read as worn out."
+  "text": "Keep the first photo a clean square crop. It is the only image shown in the feed."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-15",
+   "picks": [
+    {
+     "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5",
+     "source": "Decrypt (via Google News)",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 241 points",
+     "llm": "DeepSeek"
+    },
+    {
+     "title": "Cursor confirms security breach led to malicious Claude Code extension",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
+     "source": "BleepingComputer (via Google News)",
+     "category": "code",
+     "why": "In 2 sources"
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "picks": [
@@ -248,33 +265,6 @@
      "category": "ai",
      "why": "HN 437 points",
      "llm": "Llama"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-08",
-   "picks": [
-    {
-     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "source": "Hacker News",
-     "category": "code",
-     "why": "In 3 sources"
-    },
-    {
-     "title": "Goodbye Claude, Hello Pi",
-     "url": "https://caleb.software/posts/claude-to-pi.html",
-     "source": "Hacker News",
-     "category": "ai",
-     "why": "HN 345 points",
-     "llm": "Claude"
-    },
-    {
-     "title": "The Components of Agent Memory",
-     "url": "https://www.anthropic.com/research/components-of-agent-memory",
-     "source": "Hacker News",
-     "category": "code",
-     "why": "HN 159 points"
     }
    ]
   }

@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-15",
+ "updated": "2026-11-15T11:58:04.961590+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "605e853ed573546e",
+   "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5",
+   "source": "Decrypt (via Google News)",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-14T14:01:02+00:00",
+   "why": "In 2 sources",
+   "score": 10.0,
+   "also_in": [
+    "Yahoo Tech (via Google News)"
+   ]
+  },
+  {
+   "id": "ad8b3d5bdfd0d7ff",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "DeepSeek",
+   "published": "2026-11-14T15:04:15+00:00",
+   "why": "HN 241 points",
+   "score": 8.82,
+   "hn_points": 241,
+   "hn_url": "https://news.ycombinator.com/item?id=50497589",
+   "kind": "hn"
+  },
+  {
+   "id": "5b622551fdf913b0",
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
+   "source": "BleepingComputer (via Google News)",
+   "category": "code",
+   "published": "2026-11-14T17:27:25+00:00",
+   "why": "In 2 sources",
+   "score": 7.0,
+   "also_in": [
+    "Mezha.net (via Google News)"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 65419.0,
+    "change_24h": -2.66
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1829.81,
+    "change_24h": -4.11
+   },
+   {
+    "symbol": "SOL",
+    "usd": 72.49,
+    "change_24h": -4.48
+   }
+  ],
+  "updated": "2026-11-15T11:58:21.895389+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Keep the first photo a clean square crop. It is the only image shown in the feed."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}
