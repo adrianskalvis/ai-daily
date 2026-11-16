@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-16",
+ "updated": "2026-11-16T12:46:43.561613+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "87d7014c15ee68a3",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-15T22:00:01+00:00",
+   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "why": "In 2 sources",
+   "score": 14.0,
+   "also_in": [
+    "OpenAI (via Google News)"
+   ]
+  },
+  {
+   "id": "e3915f7e4cf071c4",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-16T00:00:00+00:00",
+   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "why": "In 2 sources",
+   "score": 14.0,
+   "also_in": [
+    "OpenAI (via Google News)"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 64192.0,
+    "change_24h": -1.91
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1797.33,
+    "change_24h": -1.8
+   },
+   {
+    "symbol": "SOL",
+    "usd": 70.78,
+    "change_24h": -2.67
+   }
+  ],
+  "updated": "2026-11-16T12:47:06.069111+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Title formula: Brand + item type + colour + size + one key detail (material, model, year)."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

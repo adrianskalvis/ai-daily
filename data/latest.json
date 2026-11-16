@@ -1,47 +1,36 @@
 {
- "date": "2026-11-15",
- "updated": "2026-11-15T11:58:04.961590+00:00",
+ "date": "2026-11-16",
+ "updated": "2026-11-16T12:46:43.561613+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "605e853ed573546e",
-   "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5",
-   "source": "Decrypt (via Google News)",
+   "id": "87d7014c15ee68a3",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI News",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-14T14:01:02+00:00",
+   "published": "2026-11-15T22:00:01+00:00",
+   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
    "why": "In 2 sources",
-   "score": 10.0,
+   "score": 14.0,
    "also_in": [
-    "Yahoo Tech (via Google News)"
+    "OpenAI (via Google News)"
    ]
   },
   {
-   "id": "ad8b3d5bdfd0d7ff",
-   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-   "source": "Hacker News",
+   "id": "e3915f7e4cf071c4",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "source": "OpenAI News",
    "category": "ai",
-   "llm": "DeepSeek",
-   "published": "2026-11-14T15:04:15+00:00",
-   "why": "HN 241 points",
-   "score": 8.82,
-   "hn_points": 241,
-   "hn_url": "https://news.ycombinator.com/item?id=50497589",
-   "kind": "hn"
-  },
-  {
-   "id": "5b622551fdf913b0",
-   "title": "Cursor confirms security breach led to malicious Claude Code extension",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
-   "source": "BleepingComputer (via Google News)",
-   "category": "code",
-   "published": "2026-11-14T17:27:25+00:00",
+   "llm": "GPT",
+   "published": "2026-11-16T00:00:00+00:00",
+   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
    "why": "In 2 sources",
-   "score": 7.0,
+   "score": 14.0,
    "also_in": [
-    "Mezha.net (via Google News)"
+    "OpenAI (via Google News)"
    ]
   }
  ],
@@ -49,29 +38,50 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 65419.0,
-    "change_24h": -2.66
+    "usd": 64192.0,
+    "change_24h": -1.91
    },
    {
     "symbol": "ETH",
-    "usd": 1829.81,
-    "change_24h": -4.11
+    "usd": 1797.33,
+    "change_24h": -1.8
    },
    {
     "symbol": "SOL",
-    "usd": 72.49,
-    "change_24h": -4.48
+    "usd": 70.78,
+    "change_24h": -2.67
    }
   ],
-  "updated": "2026-11-15T11:58:21.895389+00:00"
+  "updated": "2026-11-16T12:47:06.069111+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Keep the first photo a clean square crop. It is the only image shown in the feed."
+  "text": "Title formula: Brand + item type + colour + size + one key detail (material, model, year)."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-16",
+   "picks": [
+    {
+     "title": "A step toward defining the Standard Model on a lattice",
+     "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "The King’s Trust and OpenAI launch £1m partnership",
+     "url": "https://openai.com/index/the-kings-trust-and-openai",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "picks": [
@@ -237,34 +247,6 @@
      "source": "GitHub Changelog · Copilot",
      "category": "code",
      "why": "In 2 sources"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-09",
-   "picks": [
-    {
-     "title": "GPT-6.2 Sol Launches in Gray Release, Debuts Atop Leaderboard With Per-Task Cost Just 11.8% of Opus 5.5",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRmNhdS01UlVlYU5ldk5JMlNZTTFWczFxb1RXc2hURk5QeEZzSHdObFRYZzBnVXE0QnNTbXhuQzhvZFdlaHR4V0JtdDhsb3lkdUhTbEhLOE9uWUlVaFBQUGo5a0FnbHYxZWdoX29HMXphODhZM0E?oc=5",
-     "source": "BigGo Finance (via Google News)",
-     "category": "ai",
-     "why": "Notable",
-     "llm": "GPT"
-    },
-    {
-     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "source": "Hacker News",
-     "category": "code",
-     "why": "HN 802 points"
-    },
-    {
-     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-     "url": "https://github.com/synchopate/llama-modchip",
-     "source": "Hacker News",
-     "category": "ai",
-     "why": "HN 437 points",
-     "llm": "Llama"
     }
    ]
   }
