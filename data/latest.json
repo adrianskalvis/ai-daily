@@ -1,36 +1,50 @@
 {
- "date": "2026-11-16",
- "updated": "2026-11-16T12:46:43.561613+00:00",
+ "date": "2026-11-17",
+ "updated": "2026-11-17T13:28:36.347229+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "87d7014c15ee68a3",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "id": "cfcc7acb02e9ca79",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
    "source": "OpenAI News",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-15T22:00:01+00:00",
-   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "published": "2026-11-16T06:00:00+00:00",
+   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
    "why": "In 2 sources",
-   "score": 14.0,
+   "score": 15.0,
    "also_in": [
     "OpenAI (via Google News)"
    ]
   },
   {
-   "id": "e3915f7e4cf071c4",
-   "title": "The King’s Trust and OpenAI launch £1m partnership",
-   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "id": "b0ded74e06b06613",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
    "source": "OpenAI News",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-16T00:00:00+00:00",
-   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-   "why": "In 2 sources",
-   "score": 14.0,
+   "published": "2026-11-16T06:00:00+00:00",
+   "why": "In 3 sources",
+   "score": 12.0,
    "also_in": [
-    "OpenAI (via Google News)"
+    "OpenAI (via Google News)",
+    "The Defiant (via Google News)"
+   ]
+  },
+  {
+   "id": "4b8c3044ce82856f",
+   "title": "Control where GitHub Copilot customizations come from",
+   "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+   "source": "GitHub Changelog · Copilot",
+   "category": "code",
+   "published": "2026-11-16T19:48:33+00:00",
+   "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone…",
+   "why": "In 2 sources",
+   "score": 11.0,
+   "also_in": [
+    "The GitHub Blog (via Google News)"
    ]
   }
  ],
@@ -38,29 +52,57 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 64192.0,
-    "change_24h": -1.91
+    "usd": 64984.0,
+    "change_24h": 1.39
    },
    {
     "symbol": "ETH",
-    "usd": 1797.33,
-    "change_24h": -1.8
+    "usd": 1821.41,
+    "change_24h": 1.33
    },
    {
     "symbol": "SOL",
-    "usd": 70.78,
-    "change_24h": -2.67
+    "usd": 73.94,
+    "change_24h": 4.4
    }
   ],
-  "updated": "2026-11-16T12:47:06.069111+00:00"
+  "updated": "2026-11-17T13:28:57.417346+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Title formula: Brand + item type + colour + size + one key detail (material, model, year)."
+  "text": "Write the size exactly as the label says and add the EU size if it differs."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-17",
+   "picks": [
+    {
+     "title": "More ways to move care forward with ChatGPT for Healthcare",
+     "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "Advancing computer-use agents for healthcare teams",
+     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 3 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "Control where GitHub Copilot customizations come from",
+     "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+     "source": "GitHub Changelog · Copilot",
+     "category": "code",
+     "why": "In 2 sources"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "picks": [
@@ -216,34 +258,6 @@
     {
      "title": "Gemini 4 Carbon in GitHub Copilot",
      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-     "source": "GitHub Changelog · Copilot",
-     "category": "code",
-     "why": "In 2 sources"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-10",
-   "picks": [
-    {
-     "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5",
-     "source": "The Verge (via Google News)",
-     "category": "ai",
-     "why": "In 12 sources",
-     "llm": "Claude"
-    },
-    {
-     "title": "Meet Claude Fable 5.2",
-     "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
-     "source": "Claude (YouTube)",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "Claude"
-    },
-    {
-     "title": "Claude Fable 5.2 in GitHub Copilot",
-     "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
      "source": "GitHub Changelog · Copilot",
      "category": "code",
      "why": "In 2 sources"
