@@ -1,48 +1,68 @@
 {
- "date": "2026-11-17",
- "updated": "2026-11-17T13:28:36.347229+00:00",
+ "date": "2026-11-18",
+ "updated": "2026-11-18T13:04:12.148862+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "cfcc7acb02e9ca79",
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "id": "549a77347d5e1e5f",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
    "source": "OpenAI News",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-16T06:00:00+00:00",
-   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "published": "2026-11-17T17:45:00+00:00",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "why": "In 5 sources",
+   "score": 26.0,
+   "also_in": [
+    "Simon Willison",
+    "Hacker News",
+    "The Neuron (via Google News)",
+    "Mezha.net (via Google News)"
+   ],
+   "hn_points": 1298,
+   "hn_url": "https://news.ycombinator.com/item?id=50535230"
+  },
+  {
+   "id": "96ff71f54c6e7b4d",
+   "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+   "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+   "source": "GitHub Changelog · Copilot",
+   "category": "code",
+   "published": "2026-11-17T20:20:29+00:00",
+   "summary": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot.",
+   "why": "In 2 sources",
+   "score": 20.0,
+   "also_in": [
+    "The GitHub Blog (via Google News)"
+   ]
+  },
+  {
+   "id": "c6c361c53bc4ce2d",
+   "title": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-17T08:00:00+00:00",
+   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals…",
+   "thumbnail": "https://i.ytimg.com/vi/pmOJIq7Ah00/hqdefault.jpg",
    "why": "In 2 sources",
    "score": 15.0,
    "also_in": [
-    "OpenAI (via Google News)"
+    "OpenAI (YouTube)"
    ]
   },
   {
-   "id": "b0ded74e06b06613",
-   "title": "Advancing computer-use agents for healthcare teams",
-   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "source": "OpenAI News",
-   "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-16T06:00:00+00:00",
-   "why": "In 3 sources",
-   "score": 12.0,
-   "also_in": [
-    "OpenAI (via Google News)",
-    "The Defiant (via Google News)"
-   ]
-  },
-  {
-   "id": "4b8c3044ce82856f",
-   "title": "Control where GitHub Copilot customizations come from",
-   "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+   "id": "0fb6d41b1c23d94f",
+   "title": "GitHub Copilot app, Microsoft Ignite releases",
+   "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
    "source": "GitHub Changelog · Copilot",
    "category": "code",
-   "published": "2026-11-16T19:48:33+00:00",
-   "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone…",
+   "published": "2026-11-17T18:03:42+00:00",
+   "summary": "Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server…",
    "why": "In 2 sources",
-   "score": 11.0,
+   "score": 14.0,
    "also_in": [
     "The GitHub Blog (via Google News)"
    ]
@@ -52,29 +72,64 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 64984.0,
-    "change_24h": 1.39
+    "usd": 64016.0,
+    "change_24h": -1.5
    },
    {
     "symbol": "ETH",
-    "usd": 1821.41,
-    "change_24h": 1.33
+    "usd": 1794.24,
+    "change_24h": -1.55
    },
    {
     "symbol": "SOL",
-    "usd": 73.94,
-    "change_24h": 4.4
+    "usd": 74.27,
+    "change_24h": 0.79
    }
   ],
-  "updated": "2026-11-17T13:28:57.417346+00:00"
+  "updated": "2026-11-18T13:04:28.490273+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Write the size exactly as the label says and add the EU size if it differs."
+  "text": "Put the brand name first in the title. Most buyers search by brand."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-18",
+   "picks": [
+    {
+     "title": "Introducing GPT-6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 5 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+     "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+     "source": "GitHub Changelog · Copilot",
+     "category": "code",
+     "why": "In 2 sources"
+    },
+    {
+     "title": "Introducing ChatGPT for Sales",
+     "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "GitHub Copilot app, Microsoft Ignite releases",
+     "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+     "source": "GitHub Changelog · Copilot",
+     "category": "code",
+     "why": "In 2 sources"
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "picks": [
@@ -233,34 +288,6 @@
      "source": "MCP Blog",
      "category": "code",
      "why": "Official release"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-11",
-   "picks": [
-    {
-     "title": "Gemini 4 Carbon is now available",
-     "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-     "source": "Google DeepMind",
-     "category": "ai",
-     "why": "In 7 sources",
-     "llm": "Gemini"
-    },
-    {
-     "title": "Introducing Claude Whiteboards, Sheets, and Data",
-     "url": "https://www.youtube.com/watch?v=YewAJPawE7I",
-     "source": "Claude (YouTube)",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "Claude"
-    },
-    {
-     "title": "Gemini 4 Carbon in GitHub Copilot",
-     "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-     "source": "GitHub Changelog · Copilot",
-     "category": "code",
-     "why": "In 2 sources"
     }
    ]
   }

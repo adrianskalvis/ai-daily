@@ -220,6 +220,26 @@
    "date": "2026-11-17",
    "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
    "title": "Control where GitHub Copilot customizations come from"
+  },
+  "549a77347d5e1e5f": {
+   "date": "2026-11-18",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "title": "Introducing GPT-6.2 Astra and Sol"
+  },
+  "96ff71f54c6e7b4d": {
+   "date": "2026-11-18",
+   "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+   "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available"
+  },
+  "c6c361c53bc4ce2d": {
+   "date": "2026-11-18",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "title": "Introducing ChatGPT for Sales"
+  },
+  "0fb6d41b1c23d94f": {
+   "date": "2026-11-18",
+   "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+   "title": "GitHub Copilot app, Microsoft Ignite releases"
   }
  }
 }
