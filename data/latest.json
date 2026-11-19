@@ -1,100 +1,144 @@
 {
- "date": "2026-11-18",
- "updated": "2026-11-18T13:04:12.148862+00:00",
+ "date": "2026-11-19",
+ "updated": "2026-11-19T13:10:45.056776+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "549a77347d5e1e5f",
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "source": "OpenAI News",
+   "id": "b2c084a412751371",
+   "title": "Gemini 4 Neon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "source": "Hacker News",
    "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-17T17:45:00+00:00",
-   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-   "why": "In 5 sources",
-   "score": 26.0,
+   "llm": "Gemini",
+   "published": "2026-11-18T21:34:07+00:00",
+   "why": "In 35 sources",
+   "score": 50.0,
    "also_in": [
-    "Simon Willison",
-    "Hacker News",
-    "The Neuron (via Google News)",
-    "Mezha.net (via Google News)"
+    "The Decoder (via Google News)",
+    "The New Stack (via Google News)",
+    "AI Magazine (via Google News)",
+    "Digital Trends (via Google News)",
+    "SiliconANGLE (via Google News)",
+    "DNE Africa (via Google News)",
+    "9to5Google (via Google News)",
+    "dev.ua (via Google News)",
+    "TestingCatalog AI News (via Google News)",
+    "shattered.io (via Google News)",
+    "Unite.AI (via Google News)",
+    "www.trendingtopics.eu (via Google News)",
+    "The Defiant (via Google News)",
+    "VentureBeat (via Google News)",
+    "Android Authority (via Google News)",
+    "The Indian Express (via Google News)",
+    "Notebookcheck (via Google News)",
+    "Crypto Briefing (via Google News)",
+    "UkrMedia News (via Google News)",
+    "Tech in Asia (via Google News)",
+    "Interesting Engineering (via Google News)",
+    "CASRAI (via Google News)",
+    "Mezha (via Google News)",
+    "Analytics India Magazine (via Google News)",
+    "Fello AI (via Google News)",
+    "디지털투데이 (via Google News)",
+    "Kingy AI (via Google News)",
+    "Tbreak UAE (via Google News)",
+    "MLQ.ai (via Google News)",
+    "Moneycontrol.com (via Google News)",
+    "Jagran Josh (via Google News)",
+    "MarkTechPost (via Google News)",
+    "cwibc.co.id (via Google News)",
+    "36Kr (via Google News)"
    ],
-   "hn_points": 1298,
-   "hn_url": "https://news.ycombinator.com/item?id=50535230"
+   "hn_points": 892,
+   "hn_url": "https://news.ycombinator.com/item?id=50552424",
+   "kind": "hn"
   },
   {
-   "id": "96ff71f54c6e7b4d",
-   "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-   "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
-   "source": "GitHub Changelog · Copilot",
-   "category": "code",
-   "published": "2026-11-17T20:20:29+00:00",
-   "summary": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot.",
-   "why": "In 2 sources",
-   "score": 20.0,
-   "also_in": [
-    "The GitHub Blog (via Google News)"
-   ]
-  },
-  {
-   "id": "c6c361c53bc4ce2d",
-   "title": "Introducing ChatGPT for Sales",
-   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-   "source": "OpenAI News",
+   "id": "50e3ea47cbae988d",
+   "title": "Genie 4 is now available",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "source": "Google DeepMind",
    "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-17T08:00:00+00:00",
-   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals…",
-   "thumbnail": "https://i.ytimg.com/vi/pmOJIq7Ah00/hqdefault.jpg",
-   "why": "In 2 sources",
-   "score": 15.0,
-   "also_in": [
-    "OpenAI (YouTube)"
-   ]
-  },
-  {
-   "id": "0fb6d41b1c23d94f",
-   "title": "GitHub Copilot app, Microsoft Ignite releases",
-   "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-   "source": "GitHub Changelog · Copilot",
-   "category": "code",
-   "published": "2026-11-17T18:03:42+00:00",
-   "summary": "Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server…",
+   "llm": "Gemini",
+   "published": "2026-11-18T18:13:42+00:00",
    "why": "In 2 sources",
    "score": 14.0,
    "also_in": [
-    "The GitHub Blog (via Google News)"
+    "blog.google (via Google News)"
    ]
+  },
+  {
+   "id": "dbf7233003822774",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-18T15:49:34+00:00",
+   "why": "HN 472 points",
+   "score": 9.0,
+   "hn_points": 472,
+   "hn_url": "https://news.ycombinator.com/item?id=50547777",
+   "kind": "hn"
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 64016.0,
-    "change_24h": -1.5
+    "usd": 63825.0,
+    "change_24h": -0.25
    },
    {
     "symbol": "ETH",
-    "usd": 1794.24,
-    "change_24h": -1.55
+    "usd": 1807.45,
+    "change_24h": 0.7
    },
    {
     "symbol": "SOL",
-    "usd": 74.27,
-    "change_24h": 0.79
+    "usd": 74.77,
+    "change_24h": 0.72
    }
   ],
-  "updated": "2026-11-18T13:04:28.490273+00:00"
+  "updated": "2026-11-19T13:11:02.372100+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Put the brand name first in the title. Most buyers search by brand."
+  "text": "Mention 'new with tags' or 'never worn' in the title when it is true."
  },
- "sources_ok": 61,
- "sources_failed": [],
+ "sources_ok": 59,
+ "sources_failed": [
+  "Google News · Local AI on Mac",
+  "Google News · Vinted (EU)"
+ ],
  "week": [
+  {
+   "date": "2026-11-19",
+   "picks": [
+    {
+     "title": "Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "In 35 sources",
+     "llm": "Gemini"
+    },
+    {
+     "title": "Genie 4 is now available",
+     "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+     "source": "Google DeepMind",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "Gemini"
+    },
+    {
+     "title": "AI agents ask better questions than KPMG accountants in audit trial",
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+     "source": "Hacker News",
+     "category": "code",
+     "why": "HN 472 points"
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "picks": [
@@ -260,34 +304,6 @@
      "source": "Hacker News",
      "category": "code",
      "why": "HN 246 points"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-12",
-   "picks": [
-    {
-     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "source": "Google AI Blog",
-     "category": "ai",
-     "why": "In 4 sources",
-     "llm": "Gemini"
-    },
-    {
-     "title": "Google Launches Gemini 4 Carbon as Its Strongest Model for Autonomous AI Agents",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmJpckpNaFROYTdvdnJTZFJJODNfaXdQYW1PQkgxWW9zNTEtRFN6ZmlkNTE2clI4akJad2ZDS0t2YmZaM2RtckIxamo4UUk2VVI3TFZWblBmTlZlb0VTX0FYOU5MZl8wY0hlTUJJSGxrUC00MzhxNl9NdlJLdnZueFZDSE5za2xxYVBGV1dtNE1teUZJOUg2d201OVJfUnFrQ0Rxbkx3ZTdoUXJSVEJTUVhsNA?oc=5",
-     "source": "Brave New Coin (via Google News)",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "Gemini"
-    },
-    {
-     "title": "A More Predictable Release Cycle for MCP",
-     "url": "https://blog.modelcontextprotocol.io/posts/mcp-release-cycle/",
-     "source": "MCP Blog",
-     "category": "code",
-     "why": "Official release"
     }
    ]
   }
