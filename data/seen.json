@@ -270,6 +270,21 @@
    "date": "2026-11-20",
    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast"
+  },
+  "fda5004e845ff961": {
+   "date": "2026-11-21",
+   "url": "https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day"
+  },
+  "3ea993db7e3c60d1": {
+   "date": "2026-11-21",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "title": "Combatting adversarial distillation"
+  },
+  "c4ca83ba5741a42c": {
+   "date": "2026-11-21",
+   "url": "https://signal.org/blog/protecting-your-privacy",
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data"
   }
  }
 }

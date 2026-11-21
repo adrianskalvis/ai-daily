@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-21",
+ "updated": "2026-11-21T12:40:44.456972+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "fda5004e845ff961",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-20T13:29:59+00:00",
+   "why": "In 2 sources",
+   "score": 14.0,
+   "also_in": [
+    "The Guardian (via Google News)"
+   ],
+   "hn_points": 351,
+   "hn_url": "https://news.ycombinator.com/item?id=50574383",
+   "kind": "hn"
+  },
+  {
+   "id": "3ea993db7e3c60d1",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-20T10:00:00+00:00",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "why": "In 2 sources",
+   "score": 11.0,
+   "also_in": [
+    "OpenAI (via Google News)"
+   ]
+  },
+  {
+   "id": "c4ca83ba5741a42c",
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-20T09:42:16+00:00",
+   "why": "HN 556 points",
+   "score": 9.0,
+   "hn_points": 556,
+   "hn_url": "https://news.ycombinator.com/item?id=50572348",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 58832.0,
+    "change_24h": -4.35
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1666.13,
+    "change_24h": -4.13
+   },
+   {
+    "symbol": "SOL",
+    "usd": 69.37,
+    "change_24h": -2.47
+   }
+  ],
+  "updated": "2026-11-21T12:41:00.139626+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Check sold listings, not active ones, to see what an item really goes for."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

@@ -1,81 +1,109 @@
 {
- "date": "2026-11-20",
- "updated": "2026-11-20T12:55:15.019255+00:00",
+ "date": "2026-11-21",
+ "updated": "2026-11-21T12:40:44.456972+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "b00f82b6db94c2e5",
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-   "source": "Google AI Blog",
+   "id": "fda5004e845ff961",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "Hacker News",
    "category": "ai",
-   "llm": "Gemini",
-   "published": "2026-11-19T18:00:00+00:00",
-   "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-   "why": "In 2 sources",
-   "score": 15.0,
-   "also_in": [
-    "blog.google (via Google News)"
-   ]
-  },
-  {
-   "id": "7cb686c154d87630",
-   "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-   "source": "CoinDesk",
-   "category": "crypto",
-   "published": "2026-11-19T12:20:39+00:00",
+   "llm": "Claude",
+   "published": "2026-11-20T13:29:59+00:00",
    "why": "In 2 sources",
    "score": 14.0,
    "also_in": [
-    "Hacker News"
+    "The Guardian (via Google News)"
    ],
-   "hn_points": 1101,
-   "hn_url": "https://news.ycombinator.com/item?id=50562754"
+   "hn_points": 351,
+   "hn_url": "https://news.ycombinator.com/item?id=50574383",
+   "kind": "hn"
   },
   {
-   "id": "6687f7be62c34e4a",
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "id": "3ea993db7e3c60d1",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
    "source": "OpenAI News",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-19T08:00:00+00:00",
-   "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+   "published": "2026-11-20T10:00:00+00:00",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
    "why": "In 2 sources",
    "score": 11.0,
    "also_in": [
     "OpenAI (via Google News)"
    ]
+  },
+  {
+   "id": "c4ca83ba5741a42c",
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-20T09:42:16+00:00",
+   "why": "HN 556 points",
+   "score": 9.0,
+   "hn_points": 556,
+   "hn_url": "https://news.ycombinator.com/item?id=50572348",
+   "kind": "hn"
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 61630.0,
-    "change_24h": -3.49
+    "usd": 58832.0,
+    "change_24h": -4.35
    },
    {
     "symbol": "ETH",
-    "usd": 1740.86,
-    "change_24h": -3.51
+    "usd": 1666.13,
+    "change_24h": -4.13
    },
    {
     "symbol": "SOL",
-    "usd": 71.27,
-    "change_24h": -4.72
+    "usd": 69.37,
+    "change_24h": -2.47
    }
   ],
-  "updated": "2026-11-20T12:55:32.734971+00:00"
+  "updated": "2026-11-21T12:41:00.139626+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Avoid all caps and emoji walls in titles. They look like spam and hurt search."
+  "text": "Check sold listings, not active ones, to see what an item really goes for."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-21",
+   "picks": [
+    {
+     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "Claude"
+    },
+    {
+     "title": "Combatting adversarial distillation",
+     "url": "https://openai.com/index/combatting-adversarial-distillation",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+     "url": "https://signal.org/blog/protecting-your-privacy/",
+     "source": "Hacker News",
+     "category": "code",
+     "why": "HN 556 points"
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "picks": [
@@ -239,34 +267,6 @@
      "title": "Cursor confirms security breach led to malicious Claude Code extension",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
      "source": "BleepingComputer (via Google News)",
-     "category": "code",
-     "why": "In 2 sources"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-14",
-   "picks": [
-    {
-     "title": "Introducing ChatGPT Wallet",
-     "url": "https://openai.com/index/introducing-chatgpt-wallet",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 6 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
-     "source": "CNBC (via Google News)",
-     "category": "ai",
-     "why": "In 7 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-     "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-     "source": "GitHub Changelog · Copilot",
      "category": "code",
      "why": "In 2 sources"
     }
