@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-22",
+ "updated": "2026-11-22T12:36:51.741420+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "38c61351fe0dc3e7",
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-22T08:57:34+00:00",
+   "why": "HN 202 points",
+   "score": 8.04,
+   "hn_points": 202,
+   "hn_url": "https://news.ycombinator.com/item?id=50597612",
+   "kind": "hn"
+  },
+  {
+   "id": "c82934c02ed902f3",
+   "title": "ClawDOS – An AI coding agent for DOS",
+   "url": "http://ricapar.net/ClawDOS/",
+   "source": "Hacker News",
+   "category": "code",
+   "published": "2026-11-21T05:38:01+00:00",
+   "why": "HN 166 points",
+   "score": 7.32,
+   "hn_points": 166,
+   "hn_url": "https://news.ycombinator.com/item?id=50586292",
+   "kind": "hn"
+  },
+  {
+   "id": "d96f79c069ffeaa8",
+   "title": "Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN05uaG5QU21lUTRNNEZMWW9tX1YwQ2Yxb1BMaUoxb2wxWXhMS3RkbXU4b3FwMF9sZjdqblZ4MU5pU01CX1JRWmVNbS14SEFLcllRZVpoUjZjMmlxWUNKaS01aU5Ibkc4NWhxMF9Xb3Y5LU9JWDRfd2dUNE5oaE5sOE9TTkhZV3hUa1ZLTGlpNGpnbXpzQWttVHVZNWpCalZJeW5nQk13?oc=5",
+   "source": "Yahoo (via Google News)",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-21T19:00:54+00:00",
+   "why": "In 2 sources",
+   "score": 7.0,
+   "also_in": [
+    "The Times of India (via Google News)"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 60532.0,
+    "change_24h": 2.66
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1700.64,
+    "change_24h": 1.91
+   },
+   {
+    "symbol": "SOL",
+    "usd": 70.11,
+    "change_24h": 0.97
+   }
+  ],
+  "updated": "2026-11-22T12:37:07.410576+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Price about 10 percent above your floor so you can accept the first fair offer."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

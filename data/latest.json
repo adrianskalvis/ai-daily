@@ -1,81 +1,105 @@
 {
- "date": "2026-11-21",
- "updated": "2026-11-21T12:40:44.456972+00:00",
+ "date": "2026-11-22",
+ "updated": "2026-11-22T12:36:51.741420+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "fda5004e845ff961",
-   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "id": "38c61351fe0dc3e7",
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
    "source": "Hacker News",
    "category": "ai",
    "llm": "Claude",
-   "published": "2026-11-20T13:29:59+00:00",
-   "why": "In 2 sources",
-   "score": 14.0,
-   "also_in": [
-    "The Guardian (via Google News)"
-   ],
-   "hn_points": 351,
-   "hn_url": "https://news.ycombinator.com/item?id=50574383",
+   "published": "2026-11-22T08:57:34+00:00",
+   "why": "HN 202 points",
+   "score": 8.04,
+   "hn_points": 202,
+   "hn_url": "https://news.ycombinator.com/item?id=50597612",
    "kind": "hn"
   },
   {
-   "id": "3ea993db7e3c60d1",
-   "title": "Combatting adversarial distillation",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
-   "source": "OpenAI News",
-   "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-20T10:00:00+00:00",
-   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-   "why": "In 2 sources",
-   "score": 11.0,
-   "also_in": [
-    "OpenAI (via Google News)"
-   ]
-  },
-  {
-   "id": "c4ca83ba5741a42c",
-   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "id": "c82934c02ed902f3",
+   "title": "ClawDOS – An AI coding agent for DOS",
+   "url": "http://ricapar.net/ClawDOS/",
    "source": "Hacker News",
    "category": "code",
-   "published": "2026-11-20T09:42:16+00:00",
-   "why": "HN 556 points",
-   "score": 9.0,
-   "hn_points": 556,
-   "hn_url": "https://news.ycombinator.com/item?id=50572348",
+   "published": "2026-11-21T05:38:01+00:00",
+   "why": "HN 166 points",
+   "score": 7.32,
+   "hn_points": 166,
+   "hn_url": "https://news.ycombinator.com/item?id=50586292",
    "kind": "hn"
+  },
+  {
+   "id": "d96f79c069ffeaa8",
+   "title": "Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN05uaG5QU21lUTRNNEZMWW9tX1YwQ2Yxb1BMaUoxb2wxWXhMS3RkbXU4b3FwMF9sZjdqblZ4MU5pU01CX1JRWmVNbS14SEFLcllRZVpoUjZjMmlxWUNKaS01aU5Ibkc4NWhxMF9Xb3Y5LU9JWDRfd2dUNE5oaE5sOE9TTkhZV3hUa1ZLTGlpNGpnbXpzQWttVHVZNWpCalZJeW5nQk13?oc=5",
+   "source": "Yahoo (via Google News)",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-21T19:00:54+00:00",
+   "why": "In 2 sources",
+   "score": 7.0,
+   "also_in": [
+    "The Times of India (via Google News)"
+   ]
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 58832.0,
-    "change_24h": -4.35
+    "usd": 60532.0,
+    "change_24h": 2.66
    },
    {
     "symbol": "ETH",
-    "usd": 1666.13,
-    "change_24h": -4.13
+    "usd": 1700.64,
+    "change_24h": 1.91
    },
    {
     "symbol": "SOL",
-    "usd": 69.37,
-    "change_24h": -2.47
+    "usd": 70.11,
+    "change_24h": 0.97
    }
   ],
-  "updated": "2026-11-21T12:41:00.139626+00:00"
+  "updated": "2026-11-22T12:37:07.410576+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Check sold listings, not active ones, to see what an item really goes for."
+  "text": "Price about 10 percent above your floor so you can accept the first fair offer."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-22",
+   "picks": [
+    {
+     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+     "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 202 points",
+     "llm": "Claude"
+    },
+    {
+     "title": "ClawDOS – An AI coding agent for DOS",
+     "url": "http://ricapar.net/ClawDOS/",
+     "source": "Hacker News",
+     "category": "code",
+     "why": "HN 166 points"
+    },
+    {
+     "title": "Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN05uaG5QU21lUTRNNEZMWW9tX1YwQ2Yxb1BMaUoxb2wxWXhMS3RkbXU4b3FwMF9sZjdqblZ4MU5pU01CX1JRWmVNbS14SEFLcllRZVpoUjZjMmlxWUNKaS01aU5Ibkc4NWhxMF9Xb3Y5LU9JWDRfd2dUNE5oaE5sOE9TTkhZV3hUa1ZLTGlpNGpnbXpzQWttVHVZNWpCalZJeW5nQk13?oc=5",
+     "source": "Yahoo (via Google News)",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "Claude"
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "picks": [
@@ -241,34 +265,6 @@
      "category": "ai",
      "why": "In 2 sources",
      "llm": "GPT"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-15",
-   "picks": [
-    {
-     "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5",
-     "source": "Decrypt (via Google News)",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-     "source": "Hacker News",
-     "category": "ai",
-     "why": "HN 241 points",
-     "llm": "DeepSeek"
-    },
-    {
-     "title": "Cursor confirms security breach led to malicious Claude Code extension",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
-     "source": "BleepingComputer (via Google News)",
-     "category": "code",
-     "why": "In 2 sources"
     }
    ]
   }
