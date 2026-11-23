@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-23",
+ "updated": "2026-11-23T14:40:58.095051+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "6fd4c32fe34a4cba",
+   "title": "How to build and maintain an agentic evaluation",
+   "url": "https://huggingface.co/blog/agentic-evals",
+   "source": "Hugging Face Blog",
+   "category": "guides",
+   "published": "2026-11-23T00:00:00+00:00",
+   "why": "Official post",
+   "score": 9.0
+  },
+  {
+   "id": "1ba4d31258de505f",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Qwen",
+   "published": "2026-11-22T21:01:16+00:00",
+   "why": "HN 620 points",
+   "score": 9.0,
+   "hn_points": 620,
+   "hn_url": "https://news.ycombinator.com/item?id=50603845",
+   "kind": "hn"
+  },
+  {
+   "id": "3c4f4993adcaa465",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Other",
+   "published": "2026-11-22T13:56:58+00:00",
+   "why": "HN 344 points",
+   "score": 9.0,
+   "hn_points": 344,
+   "hn_url": "https://news.ycombinator.com/item?id=50599762",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 63310.0,
+    "change_24h": 4.37
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1807.86,
+    "change_24h": 6.19
+   },
+   {
+    "symbol": "SOL",
+    "usd": 77.25,
+    "change_24h": 10.17
+   }
+  ],
+  "updated": "2026-11-23T14:41:16.841672+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Drop the price of a stale listing by a small step every week instead of one big cut."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

@@ -1,77 +1,102 @@
 {
- "date": "2026-11-22",
- "updated": "2026-11-22T12:36:51.741420+00:00",
+ "date": "2026-11-23",
+ "updated": "2026-11-23T14:40:58.095051+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "38c61351fe0dc3e7",
-   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "id": "6fd4c32fe34a4cba",
+   "title": "How to build and maintain an agentic evaluation",
+   "url": "https://huggingface.co/blog/agentic-evals",
+   "source": "Hugging Face Blog",
+   "category": "guides",
+   "published": "2026-11-23T00:00:00+00:00",
+   "why": "Official post",
+   "score": 9.0
+  },
+  {
+   "id": "1ba4d31258de505f",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "source": "Hacker News",
    "category": "ai",
-   "llm": "Claude",
-   "published": "2026-11-22T08:57:34+00:00",
-   "why": "HN 202 points",
-   "score": 8.04,
-   "hn_points": 202,
-   "hn_url": "https://news.ycombinator.com/item?id=50597612",
+   "llm": "Qwen",
+   "published": "2026-11-22T21:01:16+00:00",
+   "why": "HN 620 points",
+   "score": 9.0,
+   "hn_points": 620,
+   "hn_url": "https://news.ycombinator.com/item?id=50603845",
    "kind": "hn"
   },
   {
-   "id": "c82934c02ed902f3",
-   "title": "ClawDOS – An AI coding agent for DOS",
-   "url": "http://ricapar.net/ClawDOS/",
+   "id": "3c4f4993adcaa465",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
    "source": "Hacker News",
-   "category": "code",
-   "published": "2026-11-21T05:38:01+00:00",
-   "why": "HN 166 points",
-   "score": 7.32,
-   "hn_points": 166,
-   "hn_url": "https://news.ycombinator.com/item?id=50586292",
-   "kind": "hn"
-  },
-  {
-   "id": "d96f79c069ffeaa8",
-   "title": "Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN05uaG5QU21lUTRNNEZMWW9tX1YwQ2Yxb1BMaUoxb2wxWXhMS3RkbXU4b3FwMF9sZjdqblZ4MU5pU01CX1JRWmVNbS14SEFLcllRZVpoUjZjMmlxWUNKaS01aU5Ibkc4NWhxMF9Xb3Y5LU9JWDRfd2dUNE5oaE5sOE9TTkhZV3hUa1ZLTGlpNGpnbXpzQWttVHVZNWpCalZJeW5nQk13?oc=5",
-   "source": "Yahoo (via Google News)",
    "category": "ai",
-   "llm": "Claude",
-   "published": "2026-11-21T19:00:54+00:00",
-   "why": "In 2 sources",
-   "score": 7.0,
-   "also_in": [
-    "The Times of India (via Google News)"
-   ]
+   "llm": "Other",
+   "published": "2026-11-22T13:56:58+00:00",
+   "why": "HN 344 points",
+   "score": 9.0,
+   "hn_points": 344,
+   "hn_url": "https://news.ycombinator.com/item?id=50599762",
+   "kind": "hn"
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 60532.0,
-    "change_24h": 2.66
+    "usd": 63310.0,
+    "change_24h": 4.37
    },
    {
     "symbol": "ETH",
-    "usd": 1700.64,
-    "change_24h": 1.91
+    "usd": 1807.86,
+    "change_24h": 6.19
    },
    {
     "symbol": "SOL",
-    "usd": 70.11,
-    "change_24h": 0.97
+    "usd": 77.25,
+    "change_24h": 10.17
    }
   ],
-  "updated": "2026-11-22T12:37:07.410576+00:00"
+  "updated": "2026-11-23T14:41:16.841672+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Price about 10 percent above your floor so you can accept the first fair offer."
+  "text": "Drop the price of a stale listing by a small step every week instead of one big cut."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-23",
+   "picks": [
+    {
+     "title": "How to build and maintain an agentic evaluation",
+     "url": "https://huggingface.co/blog/agentic-evals",
+     "source": "Hugging Face Blog",
+     "category": "guides",
+     "why": "Official post"
+    },
+    {
+     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+     "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 620 points",
+     "llm": "Qwen"
+    },
+    {
+     "title": "Show HN: I built a game where you are an LLM's subagent",
+     "url": "https://github.com/gulivan/worker755",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 344 points",
+     "llm": "Other"
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "picks": [
@@ -244,27 +269,6 @@
      "source": "GitHub Changelog · Copilot",
      "category": "code",
      "why": "In 2 sources"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-16",
-   "picks": [
-    {
-     "title": "A step toward defining the Standard Model on a lattice",
-     "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "The King’s Trust and OpenAI launch £1m partnership",
-     "url": "https://openai.com/index/the-kings-trust-and-openai",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "GPT"
     }
    ]
   }

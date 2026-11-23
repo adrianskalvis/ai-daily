@@ -300,6 +300,21 @@
    "date": "2026-11-22",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN05uaG5QU21lUTRNNEZMWW9tX1YwQ2Yxb1BMaUoxb2wxWXhMS3RkbXU4b3FwMF9sZjdqblZ4MU5pU01CX1JRWmVNbS14SEFLcllRZVpoUjZjMmlxWUNKaS01aU5Ibkc4NWhxMF9Xb3Y5LU9JWDRfd2dUNE5oaE5sOE9TTkhZV3hUa1ZLTGlpNGpnbXpzQWttVHVZNWpCalZJeW5nQk13?oc=5",
    "title": "Anthropic Mathematician Claims Claude Helped Prove 167-Year-Old Riemann Hypothesis"
+  },
+  "6fd4c32fe34a4cba": {
+   "date": "2026-11-23",
+   "url": "https://huggingface.co/blog/agentic-evals",
+   "title": "How to build and maintain an agentic evaluation"
+  },
+  "1ba4d31258de505f": {
+   "date": "2026-11-23",
+   "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
+  },
+  "3c4f4993adcaa465": {
+   "date": "2026-11-23",
+   "url": "https://github.com/gulivan/worker755",
+   "title": "Show HN: I built a game where you are an LLM's subagent"
   }
  }
 }
