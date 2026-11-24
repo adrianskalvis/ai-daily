@@ -315,6 +315,21 @@
    "date": "2026-11-23",
    "url": "https://github.com/gulivan/worker755",
    "title": "Show HN: I built a game where you are an LLM's subagent"
+  },
+  "cda9d1c7030b6c10": {
+   "date": "2026-11-24",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVG1KWnZ3U0RzWUpsWUplSWlGLXBqaDNmOURyZjE0NW1qblJCa2cwSDh3cDNnY1hGZ3MxNGVreFVCWjlsTldla2NFdmhzczU0bzJHdndGUXVwV3VSTzNyVFVzbk9XQWljdzhWMkZZQmpTQzc1eFphb0xOcHpvQXZzbzFPWE9kQ1otOHfSAYoBQVVfeXFMTVRtSlp2d1NEc1lKbFlKZUlpRi1wamgzZjlEcmYxNDVtam5SQmtnMEg4d3AzZ2NYRmdzMTRla3hVQlo5bE5XZWtjRXZoc3M1NG8yR3Z3RlF1cFd1Uk8zclRVc25PV0FpY3c4VjJGWUJqU0M3NXhaYW9MTnB6b0F2c28xT1hPZENaLTh3?oc=5",
+   "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes"
+  },
+  "b3101c1ca810f6ed": {
+   "date": "2026-11-24",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+  },
+  "ef8096d74f5dfd33": {
+   "date": "2026-11-24",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+   "title": "LLM agents work for their parent companies, not for you"
   }
  }
 }
