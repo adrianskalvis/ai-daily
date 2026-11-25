@@ -1,81 +1,111 @@
 {
- "date": "2026-11-24",
- "updated": "2026-11-24T14:53:08.598768+00:00",
+ "date": "2026-11-25",
+ "updated": "2026-11-25T14:24:34.046578+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "cda9d1c7030b6c10",
-   "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVG1KWnZ3U0RzWUpsWUplSWlGLXBqaDNmOURyZjE0NW1qblJCa2cwSDh3cDNnY1hGZ3MxNGVreFVCWjlsTldla2NFdmhzczU0bzJHdndGUXVwV3VSTzNyVFVzbk9XQWljdzhWMkZZQmpTQzc1eFphb0xOcHpvQXZzbzFPWE9kQ1otOHfSAYoBQVVfeXFMTVRtSlp2d1NEc1lKbFlKZUlpRi1wamgzZjlEcmYxNDVtam5SQmtnMEg4d3AzZ2NYRmdzMTRla3hVQlo5bE5XZWtjRXZoc3M1NG8yR3Z3RlF1cFd1Uk8zclRVc25PV0FpY3c4VjJGWUJqU0M3NXhaYW9MTnB6b0F2c28xT1hPZENaLTh3?oc=5",
-   "source": "MarkTechPost (via Google News)",
+   "id": "3c6728c1bfd19879",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI News",
    "category": "ai",
-   "llm": "Claude",
-   "published": "2026-11-24T00:02:39+00:00",
-   "why": "In 4 sources",
+   "llm": "GPT",
+   "published": "2026-11-24T13:00:00+00:00",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "why": "In 3 sources",
+   "score": 20.0,
+   "also_in": [
+    "Hacker News",
+    "OpenAI (via Google News)"
+   ],
+   "hn_points": 305,
+   "hn_url": "https://news.ycombinator.com/item?id=50634658"
+  },
+  {
+   "id": "f796e127a00ba54d",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-24T16:53:59+00:00",
+   "summary": "Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2…",
+   "why": "In 2 sources",
    "score": 12.0,
    "also_in": [
-    "Technology Org (via Google News)",
-    "Techzine Global (via Google News)",
-    "Pulse 2.0 (via Google News)"
+    "ForkLog (via Google News)"
    ]
   },
   {
-   "id": "b3101c1ca810f6ed",
-   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5",
-   "source": "TechCrunch (via Google News)",
-   "category": "ai",
-   "llm": "Claude",
-   "published": "2026-11-23T22:05:50+00:00",
-   "why": "In 4 sources",
+   "id": "8162b3b66d07bfaf",
+   "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+   "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+   "source": "The Block",
+   "category": "crypto",
+   "published": "2026-11-25T10:23:10+00:00",
+   "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
+   "why": "In 2 sources",
    "score": 12.0,
    "also_in": [
-    "The Defiant (via Google News)",
-    "Yahoo Tech (via Google News)",
-    "India Today (via Google News)"
+    "Cointelegraph"
    ]
-  },
-  {
-   "id": "ef8096d74f5dfd33",
-   "title": "LLM agents work for their parent companies, not for you",
-   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-   "source": "Hacker News",
-   "category": "code",
-   "published": "2026-11-24T12:40:15+00:00",
-   "why": "HN 336 points",
-   "score": 9.0,
-   "hn_points": 336,
-   "hn_url": "https://news.ycombinator.com/item?id=50627340",
-   "kind": "hn"
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 60424.0,
-    "change_24h": -3.63
+    "usd": 58349.0,
+    "change_24h": -3.31
    },
    {
     "symbol": "ETH",
-    "usd": 1694.86,
-    "change_24h": -4.61
+    "usd": 1636.54,
+    "change_24h": -3.52
    },
    {
     "symbol": "SOL",
-    "usd": 69.95,
-    "change_24h": -8.28
+    "usd": 67.04,
+    "change_24h": -4.36
    }
   ],
-  "updated": "2026-11-24T14:53:30.658612+00:00"
+  "updated": "2026-11-25T14:24:53.722101+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Turn on offers. Many buyers only buy when they feel they negotiated."
+  "text": "Round prices like 15 look cheaper to scan than 14.99 on mobile."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-25",
+   "picks": [
+    {
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+     "source": "OpenAI News",
+     "category": "ai",
+     "why": "In 3 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "GPT 6.2 Astra Solves a Historical Mystery",
+     "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+     "source": "Simon Willison",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+     "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+     "source": "The Block",
+     "category": "crypto",
+     "why": "In 2 sources"
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "picks": [
@@ -241,41 +271,6 @@
      "source": "Hacker News",
      "category": "code",
      "why": "HN 472 points"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-18",
-   "picks": [
-    {
-     "title": "Introducing GPT-6.2 Astra and Sol",
-     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 5 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-     "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
-     "source": "GitHub Changelog · Copilot",
-     "category": "code",
-     "why": "In 2 sources"
-    },
-    {
-     "title": "Introducing ChatGPT for Sales",
-     "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "GitHub Copilot app, Microsoft Ignite releases",
-     "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-     "source": "GitHub Changelog · Copilot",
-     "category": "code",
-     "why": "In 2 sources"
     }
    ]
   }

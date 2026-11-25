@@ -1,0 +1,80 @@
+{
+ "date": "2026-11-25",
+ "updated": "2026-11-25T14:24:34.046578+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "3c6728c1bfd19879",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-24T13:00:00+00:00",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "why": "In 3 sources",
+   "score": 20.0,
+   "also_in": [
+    "Hacker News",
+    "OpenAI (via Google News)"
+   ],
+   "hn_points": 305,
+   "hn_url": "https://news.ycombinator.com/item?id=50634658"
+  },
+  {
+   "id": "f796e127a00ba54d",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-24T16:53:59+00:00",
+   "summary": "Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2…",
+   "why": "In 2 sources",
+   "score": 12.0,
+   "also_in": [
+    "ForkLog (via Google News)"
+   ]
+  },
+  {
+   "id": "8162b3b66d07bfaf",
+   "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+   "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+   "source": "The Block",
+   "category": "crypto",
+   "published": "2026-11-25T10:23:10+00:00",
+   "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
+   "why": "In 2 sources",
+   "score": 12.0,
+   "also_in": [
+    "Cointelegraph"
+   ]
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 58349.0,
+    "change_24h": -3.31
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1636.54,
+    "change_24h": -3.52
+   },
+   {
+    "symbol": "SOL",
+    "usd": 67.04,
+    "change_24h": -4.36
+   }
+  ],
+  "updated": "2026-11-25T14:24:53.722101+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Round prices like 15 look cheaper to scan than 14.99 on mobile."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}
