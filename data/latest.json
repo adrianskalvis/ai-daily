@@ -1,83 +1,116 @@
 {
- "date": "2026-11-25",
- "updated": "2026-11-25T14:24:34.046578+00:00",
+ "date": "2026-11-26",
+ "updated": "2026-11-26T13:55:34.192080+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "3c6728c1bfd19879",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-   "source": "OpenAI News",
+   "id": "244a3e8cb4f170fa",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "source": "Hacker News",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-24T13:00:00+00:00",
-   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-   "why": "In 3 sources",
-   "score": 20.0,
-   "also_in": [
-    "Hacker News",
-    "OpenAI (via Google News)"
-   ],
-   "hn_points": 305,
-   "hn_url": "https://news.ycombinator.com/item?id=50634658"
+   "published": "2026-11-26T03:36:58+00:00",
+   "why": "HN 350 points",
+   "score": 12.0,
+   "hn_points": 350,
+   "hn_url": "https://news.ycombinator.com/item?id=50651117",
+   "kind": "hn"
   },
   {
-   "id": "f796e127a00ba54d",
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-   "source": "Simon Willison",
+   "id": "c01600d4160315a4",
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "source": "Hugging Face Blog",
+   "category": "guides",
+   "published": "2026-11-26T00:00:00+00:00",
+   "why": "Official post",
+   "score": 9.0
+  },
+  {
+   "id": "f63f4cad14680799",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
+   "source": "Hacker News",
    "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-24T16:53:59+00:00",
-   "summary": "Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2…",
-   "why": "In 2 sources",
-   "score": 12.0,
-   "also_in": [
-    "ForkLog (via Google News)"
-   ]
-  },
-  {
-   "id": "8162b3b66d07bfaf",
-   "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-   "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-   "source": "The Block",
-   "category": "crypto",
-   "published": "2026-11-25T10:23:10+00:00",
-   "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
-   "why": "In 2 sources",
-   "score": 12.0,
-   "also_in": [
-    "Cointelegraph"
-   ]
+   "llm": "Claude",
+   "published": "2026-11-25T21:48:10+00:00",
+   "why": "HN 491 points",
+   "score": 9.0,
+   "hn_points": 491,
+   "hn_url": "https://news.ycombinator.com/item?id=50648050",
+   "kind": "hn"
   }
  ],
  "crypto": {
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 58349.0,
-    "change_24h": -3.31
+    "usd": 60806.0,
+    "change_24h": 4.63
    },
    {
     "symbol": "ETH",
-    "usd": 1636.54,
-    "change_24h": -3.52
+    "usd": 1701.34,
+    "change_24h": 4.15
    },
    {
     "symbol": "SOL",
-    "usd": 67.04,
-    "change_24h": -4.36
+    "usd": 71.11,
+    "change_24h": 6.29
    }
   ],
-  "updated": "2026-11-25T14:24:53.722101+00:00"
+  "updated": "2026-11-26T13:57:27.873782+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Round prices like 15 look cheaper to scan than 14.99 on mobile."
+  "text": "Offer bundle discounts. One parcel with three items costs you one trip to the post."
  },
- "sources_ok": 61,
- "sources_failed": [],
+ "sources_ok": 48,
+ "sources_failed": [
+  "Google News · Anthropic",
+  "Google News · OpenAI",
+  "Google News · Gemini",
+  "Google News · xAI Grok",
+  "Google News · Meta Llama",
+  "Google News · DeepSeek",
+  "Google News · Mistral & Qwen",
+  "Google News · Coding agents",
+  "Google News · Local AI on Mac",
+  "Google News · Vinted (EU)",
+  "Google News · Vinted",
+  "Google News · Vinted (Latvian)",
+  "Google News · Facebook Marketplace"
+ ],
  "week": [
+  {
+   "date": "2026-11-26",
+   "picks": [
+    {
+     "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+     "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 350 points",
+     "llm": "GPT"
+    },
+    {
+     "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+     "url": "https://huggingface.co/blog/training-swarms",
+     "source": "Hugging Face Blog",
+     "category": "guides",
+     "why": "Official post"
+    },
+    {
+     "title": "Much shorter version of GRH Lean verification from Anthropic",
+     "url": "https://github.com/lsernau/grh-lean",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 491 points",
+     "llm": "Claude"
+    }
+   ]
+  },
   {
    "date": "2026-11-25",
    "picks": [
@@ -243,34 +276,6 @@
      "category": "ai",
      "why": "In 2 sources",
      "llm": "GPT"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-19",
-   "picks": [
-    {
-     "title": "Gemini 4 Neon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-     "source": "Hacker News",
-     "category": "ai",
-     "why": "In 35 sources",
-     "llm": "Gemini"
-    },
-    {
-     "title": "Genie 4 is now available",
-     "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-     "source": "Google DeepMind",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "Gemini"
-    },
-    {
-     "title": "AI agents ask better questions than KPMG accountants in audit trial",
-     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-     "source": "Hacker News",
-     "category": "code",
-     "why": "HN 472 points"
     }
    ]
   }

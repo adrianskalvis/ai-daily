@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-26",
+ "updated": "2026-11-26T13:55:34.192080+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "244a3e8cb4f170fa",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-26T03:36:58+00:00",
+   "why": "HN 350 points",
+   "score": 12.0,
+   "hn_points": 350,
+   "hn_url": "https://news.ycombinator.com/item?id=50651117",
+   "kind": "hn"
+  },
+  {
+   "id": "c01600d4160315a4",
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "source": "Hugging Face Blog",
+   "category": "guides",
+   "published": "2026-11-26T00:00:00+00:00",
+   "why": "Official post",
+   "score": 9.0
+  },
+  {
+   "id": "f63f4cad14680799",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-25T21:48:10+00:00",
+   "why": "HN 491 points",
+   "score": 9.0,
+   "hn_points": 491,
+   "hn_url": "https://news.ycombinator.com/item?id=50648050",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 60806.0,
+    "change_24h": 4.63
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1701.34,
+    "change_24h": 4.15
+   },
+   {
+    "symbol": "SOL",
+    "usd": 71.11,
+    "change_24h": 6.29
+   }
+  ],
+  "updated": "2026-11-26T13:57:27.873782+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Offer bundle discounts. One parcel with three items costs you one trip to the post."
+ },
+ "sources_ok": 48,
+ "sources_failed": [
+  "Google News · Anthropic",
+  "Google News · OpenAI",
+  "Google News · Gemini",
+  "Google News · xAI Grok",
+  "Google News · Meta Llama",
+  "Google News · DeepSeek",
+  "Google News · Mistral & Qwen",
+  "Google News · Coding agents",
+  "Google News · Local AI on Mac",
+  "Google News · Vinted (EU)",
+  "Google News · Vinted",
+  "Google News · Vinted (Latvian)",
+  "Google News · Facebook Marketplace"
+ ]
+}

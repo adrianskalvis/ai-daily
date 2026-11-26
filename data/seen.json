@@ -345,6 +345,21 @@
    "date": "2026-11-25",
    "url": "https://theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
    "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization"
+  },
+  "244a3e8cb4f170fa": {
+   "date": "2026-11-26",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster"
+  },
+  "c01600d4160315a4": {
+   "date": "2026-11-26",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems"
+  },
+  "f63f4cad14680799": {
+   "date": "2026-11-26",
+   "url": "https://github.com/lsernau/grh-lean",
+   "title": "Much shorter version of GRH Lean verification from Anthropic"
   }
  }
 }
