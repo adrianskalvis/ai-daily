@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-27",
+ "updated": "2026-11-27T13:53:01.502024+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "e17b1d8c8849cd34",
+   "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together",
+   "url": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
+   "source": "Meta Newsroom",
+   "category": "ai",
+   "llm": "Llama",
+   "published": "2026-11-27T12:33:00+00:00",
+   "summary": "Today at the House of Instagram in Mumbai , the annual creator event by Meta, we announced Instagram for TV will soon be available in India.",
+   "why": "Notable",
+   "score": 10.0
+  },
+  {
+   "id": "bce85b676581c456",
+   "title": "OpenAI fixes billing error, leaving GPT-6.2 users hitting limits faster",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdodFNyY0JqWEdzaHowQlNrVXZMb1B5SUh4Z0ZpZVFzNG9weVFXUTVOZUZMVE1YaURlVC0xQU03ejZZclZmYjdNdXpka3lHMWpyTnhuWG9Pdzhwb2VNSUlUZkJyZjZDTHhrRDZNVEJWTzRpdTdfZ0EyZ2hOR19MYlVVejBpNUtZYUt1SEFBbmo5YlkxRW1mVXdNMGhOb2R2VG81U2xFWQ?oc=5",
+   "source": "Superpower Daily (via Google News)",
+   "category": "ai",
+   "llm": "GPT",
+   "published": "2026-11-26T18:28:12+00:00",
+   "why": "In 2 sources",
+   "score": 10.0,
+   "also_in": [
+    "The Next Web (via Google News)"
+   ]
+  },
+  {
+   "id": "1d45997e4997625f",
+   "title": "AMD-specific fork of llama.cpp",
+   "url": "https://devnull.land/amd-specific-llama-cpp",
+   "source": "Hacker News",
+   "category": "mac",
+   "published": "2026-11-26T17:11:29+00:00",
+   "why": "HN 397 points",
+   "score": 9.0,
+   "hn_points": 397,
+   "hn_url": "https://news.ycombinator.com/item?id=50657265",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 61486.0,
+    "change_24h": 1.03
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1725.47,
+    "change_24h": 1.35
+   },
+   {
+    "symbol": "SOL",
+    "usd": 73.36,
+    "change_24h": 3.11
+   }
+  ],
+  "updated": "2026-11-27T13:53:23.266196+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "Group matching items (same size, same brand) so bundles form naturally."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

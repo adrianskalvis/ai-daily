@@ -1,44 +1,45 @@
 {
- "date": "2026-11-26",
- "updated": "2026-11-26T13:55:34.192080+00:00",
+ "date": "2026-11-27",
+ "updated": "2026-11-27T13:53:01.502024+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "244a3e8cb4f170fa",
-   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-   "source": "Hacker News",
+   "id": "e17b1d8c8849cd34",
+   "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together",
+   "url": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
+   "source": "Meta Newsroom",
+   "category": "ai",
+   "llm": "Llama",
+   "published": "2026-11-27T12:33:00+00:00",
+   "summary": "Today at the House of Instagram in Mumbai , the annual creator event by Meta, we announced Instagram for TV will soon be available in India.",
+   "why": "Notable",
+   "score": 10.0
+  },
+  {
+   "id": "bce85b676581c456",
+   "title": "OpenAI fixes billing error, leaving GPT-6.2 users hitting limits faster",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdodFNyY0JqWEdzaHowQlNrVXZMb1B5SUh4Z0ZpZVFzNG9weVFXUTVOZUZMVE1YaURlVC0xQU03ejZZclZmYjdNdXpka3lHMWpyTnhuWG9Pdzhwb2VNSUlUZkJyZjZDTHhrRDZNVEJWTzRpdTdfZ0EyZ2hOR19MYlVVejBpNUtZYUt1SEFBbmo5YlkxRW1mVXdNMGhOb2R2VG81U2xFWQ?oc=5",
+   "source": "Superpower Daily (via Google News)",
    "category": "ai",
    "llm": "GPT",
-   "published": "2026-11-26T03:36:58+00:00",
-   "why": "HN 350 points",
-   "score": 12.0,
-   "hn_points": 350,
-   "hn_url": "https://news.ycombinator.com/item?id=50651117",
-   "kind": "hn"
+   "published": "2026-11-26T18:28:12+00:00",
+   "why": "In 2 sources",
+   "score": 10.0,
+   "also_in": [
+    "The Next Web (via Google News)"
+   ]
   },
   {
-   "id": "c01600d4160315a4",
-   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-   "url": "https://huggingface.co/blog/training-swarms",
-   "source": "Hugging Face Blog",
-   "category": "guides",
-   "published": "2026-11-26T00:00:00+00:00",
-   "why": "Official post",
-   "score": 9.0
-  },
-  {
-   "id": "f63f4cad14680799",
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "url": "https://github.com/lsernau/grh-lean",
+   "id": "1d45997e4997625f",
+   "title": "AMD-specific fork of llama.cpp",
+   "url": "https://devnull.land/amd-specific-llama-cpp",
    "source": "Hacker News",
-   "category": "ai",
-   "llm": "Claude",
-   "published": "2026-11-25T21:48:10+00:00",
-   "why": "HN 491 points",
+   "category": "mac",
+   "published": "2026-11-26T17:11:29+00:00",
+   "why": "HN 397 points",
    "score": 9.0,
-   "hn_points": 491,
-   "hn_url": "https://news.ycombinator.com/item?id=50648050",
+   "hn_points": 397,
+   "hn_url": "https://news.ycombinator.com/item?id=50657265",
    "kind": "hn"
   }
  ],
@@ -46,43 +47,57 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 60806.0,
-    "change_24h": 4.63
+    "usd": 61486.0,
+    "change_24h": 1.03
    },
    {
     "symbol": "ETH",
-    "usd": 1701.34,
-    "change_24h": 4.15
+    "usd": 1725.47,
+    "change_24h": 1.35
    },
    {
     "symbol": "SOL",
-    "usd": 71.11,
-    "change_24h": 6.29
+    "usd": 73.36,
+    "change_24h": 3.11
    }
   ],
-  "updated": "2026-11-26T13:57:27.873782+00:00"
+  "updated": "2026-11-27T13:53:23.266196+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Offer bundle discounts. One parcel with three items costs you one trip to the post."
+  "text": "Group matching items (same size, same brand) so bundles form naturally."
  },
- "sources_ok": 48,
- "sources_failed": [
-  "Google News · Anthropic",
-  "Google News · OpenAI",
-  "Google News · Gemini",
-  "Google News · xAI Grok",
-  "Google News · Meta Llama",
-  "Google News · DeepSeek",
-  "Google News · Mistral & Qwen",
-  "Google News · Coding agents",
-  "Google News · Local AI on Mac",
-  "Google News · Vinted (EU)",
-  "Google News · Vinted",
-  "Google News · Vinted (Latvian)",
-  "Google News · Facebook Marketplace"
- ],
+ "sources_ok": 61,
+ "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-27",
+   "picks": [
+    {
+     "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together",
+     "url": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
+     "source": "Meta Newsroom",
+     "category": "ai",
+     "why": "Notable",
+     "llm": "Llama"
+    },
+    {
+     "title": "OpenAI fixes billing error, leaving GPT-6.2 users hitting limits faster",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdodFNyY0JqWEdzaHowQlNrVXZMb1B5SUh4Z0ZpZVFzNG9weVFXUTVOZUZMVE1YaURlVC0xQU03ejZZclZmYjdNdXpka3lHMWpyTnhuWG9Pdzhwb2VNSUlUZkJyZjZDTHhrRDZNVEJWTzRpdTdfZ0EyZ2hOR19MYlVVejBpNUtZYUt1SEFBbmo5YlkxRW1mVXdNMGhOb2R2VG81U2xFWQ?oc=5",
+     "source": "Superpower Daily (via Google News)",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "GPT"
+    },
+    {
+     "title": "AMD-specific fork of llama.cpp",
+     "url": "https://devnull.land/amd-specific-llama-cpp",
+     "source": "Hacker News",
+     "category": "mac",
+     "why": "HN 397 points"
+    }
+   ]
+  },
   {
    "date": "2026-11-26",
    "picks": [
@@ -248,34 +263,6 @@
      "source": "Hacker News",
      "category": "code",
      "why": "HN 556 points"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-20",
-   "picks": [
-    {
-     "title": "Introducing Tool Retrieval in the Gemini API",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-     "source": "Google AI Blog",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "Gemini"
-    },
-    {
-     "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-     "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-     "source": "CoinDesk",
-     "category": "crypto",
-     "why": "In 2 sources"
-    },
-    {
-     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "GPT"
     }
    ]
   }

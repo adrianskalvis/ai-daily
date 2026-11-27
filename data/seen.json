@@ -360,6 +360,21 @@
    "date": "2026-11-26",
    "url": "https://github.com/lsernau/grh-lean",
    "title": "Much shorter version of GRH Lean verification from Anthropic"
+  },
+  "e17b1d8c8849cd34": {
+   "date": "2026-11-27",
+   "url": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together",
+   "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together"
+  },
+  "bce85b676581c456": {
+   "date": "2026-11-27",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdodFNyY0JqWEdzaHowQlNrVXZMb1B5SUh4Z0ZpZVFzNG9weVFXUTVOZUZMVE1YaURlVC0xQU03ejZZclZmYjdNdXpka3lHMWpyTnhuWG9Pdzhwb2VNSUlUZkJyZjZDTHhrRDZNVEJWTzRpdTdfZ0EyZ2hOR19MYlVVejBpNUtZYUt1SEFBbmo5YlkxRW1mVXdNMGhOb2R2VG81U2xFWQ?oc=5",
+   "title": "OpenAI fixes billing error, leaving GPT-6.2 users hitting limits faster"
+  },
+  "1d45997e4997625f": {
+   "date": "2026-11-27",
+   "url": "https://devnull.land/amd-specific-llama-cpp",
+   "title": "AMD-specific fork of llama.cpp"
   }
  }
 }
