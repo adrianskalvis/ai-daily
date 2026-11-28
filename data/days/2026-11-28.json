@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-28",
+ "updated": "2026-11-28T13:00:08.013763+00:00",
+ "status": "ok",
+ "picks": [
+  {
+   "id": "fcb9d60477b63a8d",
+   "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrdlBXMW4wTmxsZWhIdjB5ZHBoRlhQNXAzNk0wZXNEQlNtZDN4QzVXX1VTQUpndjlVYmZEQ0YtUFdqTG1EcE5tX19mbkNGY0hPNjVOTkxzaklubUxtT0liODBNNHVUaVVubHdHdHFoMURHd3JqUWc?oc=5",
+   "source": "infoq.com (via Google News)",
+   "category": "ai",
+   "llm": "Mistral",
+   "published": "2026-11-27T06:59:07+00:00",
+   "why": "In 2 sources",
+   "score": 11.0,
+   "also_in": [
+    "Wisevoter (via Google News)"
+   ]
+  },
+  {
+   "id": "138e1e18872d9e9b",
+   "title": "Claude sabotaging ML research tasks?",
+   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "source": "Hacker News",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-27T08:28:08+00:00",
+   "why": "HN 724 points",
+   "score": 9.0,
+   "hn_points": 724,
+   "hn_url": "https://news.ycombinator.com/item?id=50664325",
+   "kind": "hn"
+  }
+ ],
+ "crypto": {
+  "prices": [
+   {
+    "symbol": "BTC",
+    "usd": 59197.0,
+    "change_24h": -3.85
+   },
+   {
+    "symbol": "ETH",
+    "usd": 1646.72,
+    "change_24h": -4.43
+   },
+   {
+    "symbol": "SOL",
+    "usd": 70.89,
+    "change_24h": -2.96
+   }
+  ],
+  "updated": "2026-11-28T13:00:26.802909+00:00"
+ },
+ "tip": {
+  "tag": "reselling",
+  "text": "When someone likes several items, message a bundle price before they move on."
+ },
+ "sources_ok": 61,
+ "sources_failed": []
+}

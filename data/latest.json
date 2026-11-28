@@ -1,45 +1,34 @@
 {
- "date": "2026-11-27",
- "updated": "2026-11-27T13:53:01.502024+00:00",
+ "date": "2026-11-28",
+ "updated": "2026-11-28T13:00:08.013763+00:00",
  "status": "ok",
  "picks": [
   {
-   "id": "e17b1d8c8849cd34",
-   "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together",
-   "url": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
-   "source": "Meta Newsroom",
+   "id": "fcb9d60477b63a8d",
+   "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrdlBXMW4wTmxsZWhIdjB5ZHBoRlhQNXAzNk0wZXNEQlNtZDN4QzVXX1VTQUpndjlVYmZEQ0YtUFdqTG1EcE5tX19mbkNGY0hPNjVOTkxzaklubUxtT0liODBNNHVUaVVubHdHdHFoMURHd3JqUWc?oc=5",
+   "source": "infoq.com (via Google News)",
    "category": "ai",
-   "llm": "Llama",
-   "published": "2026-11-27T12:33:00+00:00",
-   "summary": "Today at the House of Instagram in Mumbai , the annual creator event by Meta, we announced Instagram for TV will soon be available in India.",
-   "why": "Notable",
-   "score": 10.0
-  },
-  {
-   "id": "bce85b676581c456",
-   "title": "OpenAI fixes billing error, leaving GPT-6.2 users hitting limits faster",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdodFNyY0JqWEdzaHowQlNrVXZMb1B5SUh4Z0ZpZVFzNG9weVFXUTVOZUZMVE1YaURlVC0xQU03ejZZclZmYjdNdXpka3lHMWpyTnhuWG9Pdzhwb2VNSUlUZkJyZjZDTHhrRDZNVEJWTzRpdTdfZ0EyZ2hOR19MYlVVejBpNUtZYUt1SEFBbmo5YlkxRW1mVXdNMGhOb2R2VG81U2xFWQ?oc=5",
-   "source": "Superpower Daily (via Google News)",
-   "category": "ai",
-   "llm": "GPT",
-   "published": "2026-11-26T18:28:12+00:00",
+   "llm": "Mistral",
+   "published": "2026-11-27T06:59:07+00:00",
    "why": "In 2 sources",
-   "score": 10.0,
+   "score": 11.0,
    "also_in": [
-    "The Next Web (via Google News)"
+    "Wisevoter (via Google News)"
    ]
   },
   {
-   "id": "1d45997e4997625f",
-   "title": "AMD-specific fork of llama.cpp",
-   "url": "https://devnull.land/amd-specific-llama-cpp",
+   "id": "138e1e18872d9e9b",
+   "title": "Claude sabotaging ML research tasks?",
+   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
    "source": "Hacker News",
-   "category": "mac",
-   "published": "2026-11-26T17:11:29+00:00",
-   "why": "HN 397 points",
+   "category": "ai",
+   "llm": "Claude",
+   "published": "2026-11-27T08:28:08+00:00",
+   "why": "HN 724 points",
    "score": 9.0,
-   "hn_points": 397,
-   "hn_url": "https://news.ycombinator.com/item?id=50657265",
+   "hn_points": 724,
+   "hn_url": "https://news.ycombinator.com/item?id=50664325",
    "kind": "hn"
   }
  ],
@@ -47,29 +36,50 @@
   "prices": [
    {
     "symbol": "BTC",
-    "usd": 61486.0,
-    "change_24h": 1.03
+    "usd": 59197.0,
+    "change_24h": -3.85
    },
    {
     "symbol": "ETH",
-    "usd": 1725.47,
-    "change_24h": 1.35
+    "usd": 1646.72,
+    "change_24h": -4.43
    },
    {
     "symbol": "SOL",
-    "usd": 73.36,
-    "change_24h": 3.11
+    "usd": 70.89,
+    "change_24h": -2.96
    }
   ],
-  "updated": "2026-11-27T13:53:23.266196+00:00"
+  "updated": "2026-11-28T13:00:26.802909+00:00"
  },
  "tip": {
   "tag": "reselling",
-  "text": "Group matching items (same size, same brand) so bundles form naturally."
+  "text": "When someone likes several items, message a bundle price before they move on."
  },
  "sources_ok": 61,
  "sources_failed": [],
  "week": [
+  {
+   "date": "2026-11-28",
+   "picks": [
+    {
+     "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrdlBXMW4wTmxsZWhIdjB5ZHBoRlhQNXAzNk0wZXNEQlNtZDN4QzVXX1VTQUpndjlVYmZEQ0YtUFdqTG1EcE5tX19mbkNGY0hPNjVOTkxzaklubUxtT0liODBNNHVUaVVubHdHdHFoMURHd3JqUWc?oc=5",
+     "source": "infoq.com (via Google News)",
+     "category": "ai",
+     "why": "In 2 sources",
+     "llm": "Mistral"
+    },
+    {
+     "title": "Claude sabotaging ML research tasks?",
+     "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+     "source": "Hacker News",
+     "category": "ai",
+     "why": "HN 724 points",
+     "llm": "Claude"
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "picks": [
@@ -235,34 +245,6 @@
      "category": "ai",
      "why": "In 2 sources",
      "llm": "Claude"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-21",
-   "picks": [
-    {
-     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-     "source": "Hacker News",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "Claude"
-    },
-    {
-     "title": "Combatting adversarial distillation",
-     "url": "https://openai.com/index/combatting-adversarial-distillation",
-     "source": "OpenAI News",
-     "category": "ai",
-     "why": "In 2 sources",
-     "llm": "GPT"
-    },
-    {
-     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-     "url": "https://signal.org/blog/protecting-your-privacy/",
-     "source": "Hacker News",
-     "category": "code",
-     "why": "HN 556 points"
     }
    ]
   }
